@@ -1,0 +1,58 @@
+{
+  "resources": {
+    "model_architecture": "EfficientNetV2-S",
+    "total_parameters": 20226166,
+    "trainable_parameters": 48678,
+    "frozen_parameters": 20177488,
+    "checkpoint_file_size_mb": 78.4,
+    "estimated_flops": "Not measured (safe profiling)",
+    "pytorch_version": "2.13.0+cu126",
+    "python_version": "3.11.9",
+    "gpu_name": "NVIDIA GeForce RTX 2050",
+    "cuda_available": true,
+    "cuda_version": "12.6",
+    "peak_allocated_mb": 183.3,
+    "peak_reserved_mb": 730.0
+  },
+  "benchmarks": {
+    "gpu_batch_1": {
+      "batch_size": 1,
+      "device": "cuda",
+      "iterations": 100,
+      "mean_latency_ms": 21.328845000825822,
+      "std_latency_ms": 5.280516891766519,
+      "min_latency_ms": 17.307600006461143,
+      "max_latency_ms": 51.23230000026524,
+      "p50_latency_ms": 19.598049999331124,
+      "p95_latency_ms": 29.497100005391978,
+      "p99_latency_ms": 42.98995602206564,
+      "throughput_fps": 46.884864134053274
+    },
+    "gpu_batch_32": {
+      "batch_size": 32,
+      "device": "cuda",
+      "iterations": 100,
+      "mean_latency_ms": 143.4837760013761,
+      "std_latency_ms": 0.5609329603968695,
+      "min_latency_ms": 143.22399999946356,
+      "max_latency_ms": 148.66070001153275,
+      "p50_latency_ms": 143.4103000065079,
+      "p95_latency_ms": 143.60511999984737,
+      "p99_latency_ms": 145.34469500184062,
+      "throughput_fps": 223.021730343179
+    },
+    "cpu_batch_1": {
+      "batch_size": 1,
+      "device": "cpu",
+      "iterations": 30,
+      "mean_latency_ms": 57.18802666524425,
+      "std_latency_ms": 3.777748212967861,
+      "min_latency_ms": 48.935099999653175,
+      "max_latency_ms": 64.59910000558011,
+      "p50_latency_ms": 57.401650003157556,
+      "p95_latency_ms": 62.47087499941699,
+      "p99_latency_ms": 64.03496299753897,
+      "throughput_fps": 17.48617775978875
+    }
+  }
+}

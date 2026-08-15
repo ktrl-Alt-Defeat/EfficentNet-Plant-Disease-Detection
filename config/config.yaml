@@ -1,0 +1,80 @@
+# ==============================================================================
+# Plant Disease Classification — Configuration File (Milestone 3)
+# ==============================================================================
+# Comprehensive configuration file for the EfficientNetV2-S training pipeline.
+# All hyperparameters are configuration-driven and can be tuned here.
+# ==============================================================================
+
+# --- 1. Project-Level Settings ---
+project:
+  name: plant_disease_classification
+  seed: 42
+
+# --- 2. Dataset & DataLoader Settings ---
+data:
+  train_dir: "data/train"
+  val_dir: "data/val"
+  test_dir: "data/test"
+
+  image_size: 224                       # Image resolution (224x224 RGB)
+  batch_size: 32                        # Physical mini-batch size
+  num_workers: 4                        # DataLoader worker subprocesses
+
+# --- 3. Model Architecture Settings ---
+model:
+  name: efficientnet_v2_s
+  pretrained: true                      # Load ImageNet-1K pretrained weights
+  freeze_backbone: true                 # Freeze feature extractor during baseline transfer learning
+  num_classes: null                     # Dynamically discovered from dataset class folders
+  dropout: 0.3                          # Dropout probability for classification head
+
+# --- 4. Training Hyperparameters ---
+training:
+  epochs: 15                            # Maximum training epochs
+
+  optimizer:
+    name: adamw                         # Optimizer algorithm
+    learning_rate: 0.001                # Initial learning rate for classifier head
+    weight_decay: 0.0001                # L2 regularization factor
+    betas:
+      - 0.9                             # 1st moment exponential decay
+      - 0.999                           # 2nd moment exponential decay
+
+  scheduler:
+    name: cosine                        # CosineAnnealingLR schedule
+    min_lr: 0.000001                    # Minimum learning rate at final epoch
+    warmup_epochs: 0                    # Epochs for linear warmup (0 = disabled)
+
+  loss:
+    name: cross_entropy                 # Loss function
+    label_smoothing: 0.0                # Label smoothing epsilon (0.0 = standard cross-entropy)
+
+  amp:
+    enabled: true                       # Automatic Mixed Precision (FP16 on CUDA)
+
+  gradient:
+    clipping:
+      enabled: true                     # Gradient clipping
+      max_norm: 1.0                     # Maximum L2 gradient norm threshold
+
+  early_stopping:
+    enabled: true                       # Early stopping to prevent overfitting
+    patience: 15                        # Epochs to wait for improvement before terminating (Option B)
+    monitor: val_accuracy               # Monitored validation metric (Option A: track accuracy)
+    mode: max                           # Metric optimization direction (max for accuracy)
+
+# --- 5. Checkpoint Settings ---
+checkpoint:
+  save_best: true                       # Save best performing checkpoint (best.pt)
+  save_last: true                       # Save most recent epoch checkpoint (last.pt)
+  directory: "checkpoints"              # Checkpoint storage directory
+
+# --- 6. Logging Settings ---
+logging:
+  tensorboard: true                     # Enable TensorBoard scalar logging
+  csv: true                             # Export metrics to training_history.csv
+  json: true                            # Export metrics to training_history.json
+
+# --- 7. Hardware Runtime Settings ---
+runtime:
+  device: cuda                          # Preferred device (auto-detects CUDA with CPU fallback)

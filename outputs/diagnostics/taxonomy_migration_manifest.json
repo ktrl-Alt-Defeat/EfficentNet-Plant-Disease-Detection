@@ -1,0 +1,2992 @@
+[
+  {
+    "manifest_id": 1,
+    "split": "train",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "010953a32c8892ba.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_leaf_spot\\010953a32c8892ba.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_spot\\010953a32c8892ba.jpg",
+    "file_size_bytes": 27255
+  },
+  {
+    "manifest_id": 2,
+    "split": "train",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "04a6f018dd31a620.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_leaf_spot\\04a6f018dd31a620.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_spot\\04a6f018dd31a620.jpg",
+    "file_size_bytes": 34026
+  },
+  {
+    "manifest_id": 3,
+    "split": "train",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "0abacd492ee3fc9e.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_leaf_spot\\0abacd492ee3fc9e.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_spot\\0abacd492ee3fc9e.jpg",
+    "file_size_bytes": 32278
+  },
+  {
+    "manifest_id": 4,
+    "split": "train",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "19b5888e33c04ecb.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_leaf_spot\\19b5888e33c04ecb.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_spot\\19b5888e33c04ecb.jpg",
+    "file_size_bytes": 20756
+  },
+  {
+    "manifest_id": 5,
+    "split": "train",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "19d952afedcea551.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_leaf_spot\\19d952afedcea551.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_spot\\19d952afedcea551.jpg",
+    "file_size_bytes": 29818
+  },
+  {
+    "manifest_id": 6,
+    "split": "train",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "1a22876b506da983.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_leaf_spot\\1a22876b506da983.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_spot\\1a22876b506da983.jpg",
+    "file_size_bytes": 23235
+  },
+  {
+    "manifest_id": 7,
+    "split": "train",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "1a3d2b1a0cfb1868.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_leaf_spot\\1a3d2b1a0cfb1868.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_spot\\1a3d2b1a0cfb1868.jpg",
+    "file_size_bytes": 25788
+  },
+  {
+    "manifest_id": 8,
+    "split": "train",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "1a5c3d8ca6fc605d.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_leaf_spot\\1a5c3d8ca6fc605d.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_spot\\1a5c3d8ca6fc605d.jpg",
+    "file_size_bytes": 19647
+  },
+  {
+    "manifest_id": 9,
+    "split": "train",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "1aa9f8503f90cc3d.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_leaf_spot\\1aa9f8503f90cc3d.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_spot\\1aa9f8503f90cc3d.jpg",
+    "file_size_bytes": 19413
+  },
+  {
+    "manifest_id": 10,
+    "split": "train",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "1e59a449fb17fdcd.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_leaf_spot\\1e59a449fb17fdcd.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_spot\\1e59a449fb17fdcd.jpg",
+    "file_size_bytes": 23106
+  },
+  {
+    "manifest_id": 11,
+    "split": "train",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "28158d85c4b72050.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_leaf_spot\\28158d85c4b72050.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_spot\\28158d85c4b72050.jpg",
+    "file_size_bytes": 28204
+  },
+  {
+    "manifest_id": 12,
+    "split": "train",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "2e3296143a0517c7.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_leaf_spot\\2e3296143a0517c7.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_spot\\2e3296143a0517c7.jpg",
+    "file_size_bytes": 23256
+  },
+  {
+    "manifest_id": 13,
+    "split": "train",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "309d99703408e8f3.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_leaf_spot\\309d99703408e8f3.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_spot\\309d99703408e8f3.jpg",
+    "file_size_bytes": 31929
+  },
+  {
+    "manifest_id": 14,
+    "split": "train",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "323ffa92d4226add.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_leaf_spot\\323ffa92d4226add.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_spot\\323ffa92d4226add.jpg",
+    "file_size_bytes": 34402
+  },
+  {
+    "manifest_id": 15,
+    "split": "train",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "32a7a7d97885c0ca.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_leaf_spot\\32a7a7d97885c0ca.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_spot\\32a7a7d97885c0ca.jpg",
+    "file_size_bytes": 23514
+  },
+  {
+    "manifest_id": 16,
+    "split": "train",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "32dcd9a3f1e3154d.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_leaf_spot\\32dcd9a3f1e3154d.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_spot\\32dcd9a3f1e3154d.jpg",
+    "file_size_bytes": 22048
+  },
+  {
+    "manifest_id": 17,
+    "split": "train",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "33ec4aad8ca68120.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_leaf_spot\\33ec4aad8ca68120.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_spot\\33ec4aad8ca68120.jpg",
+    "file_size_bytes": 22754
+  },
+  {
+    "manifest_id": 18,
+    "split": "train",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "3b709c8e1194b0a8.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_leaf_spot\\3b709c8e1194b0a8.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_spot\\3b709c8e1194b0a8.jpg",
+    "file_size_bytes": 25524
+  },
+  {
+    "manifest_id": 19,
+    "split": "train",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "403273e74dfb672c.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_leaf_spot\\403273e74dfb672c.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_spot\\403273e74dfb672c.jpg",
+    "file_size_bytes": 29637
+  },
+  {
+    "manifest_id": 20,
+    "split": "train",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "427c8d709c8d2299.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_leaf_spot\\427c8d709c8d2299.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_spot\\427c8d709c8d2299.jpg",
+    "file_size_bytes": 26856
+  },
+  {
+    "manifest_id": 21,
+    "split": "train",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "434a365f7625ba6c.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_leaf_spot\\434a365f7625ba6c.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_spot\\434a365f7625ba6c.jpg",
+    "file_size_bytes": 26022
+  },
+  {
+    "manifest_id": 22,
+    "split": "train",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "43c12007b5f1cbb8.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_leaf_spot\\43c12007b5f1cbb8.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_spot\\43c12007b5f1cbb8.jpg",
+    "file_size_bytes": 27352
+  },
+  {
+    "manifest_id": 23,
+    "split": "train",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "43c1953efaf6dcfa.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_leaf_spot\\43c1953efaf6dcfa.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_spot\\43c1953efaf6dcfa.jpg",
+    "file_size_bytes": 22249
+  },
+  {
+    "manifest_id": 24,
+    "split": "train",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "4dee06f758a2b6ff.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_leaf_spot\\4dee06f758a2b6ff.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_spot\\4dee06f758a2b6ff.jpg",
+    "file_size_bytes": 27490
+  },
+  {
+    "manifest_id": 25,
+    "split": "train",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "57b349a532d66d87.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_leaf_spot\\57b349a532d66d87.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_spot\\57b349a532d66d87.jpg",
+    "file_size_bytes": 27769
+  },
+  {
+    "manifest_id": 26,
+    "split": "train",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "61c788a4db9f9259.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_leaf_spot\\61c788a4db9f9259.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_spot\\61c788a4db9f9259.jpg",
+    "file_size_bytes": 20080
+  },
+  {
+    "manifest_id": 27,
+    "split": "train",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "6dcca6af1b909662.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_leaf_spot\\6dcca6af1b909662.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_spot\\6dcca6af1b909662.jpg",
+    "file_size_bytes": 23677
+  },
+  {
+    "manifest_id": 28,
+    "split": "train",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "75219fd043256409.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_leaf_spot\\75219fd043256409.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_spot\\75219fd043256409.jpg",
+    "file_size_bytes": 27354
+  },
+  {
+    "manifest_id": 29,
+    "split": "train",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "7a766a128d78548f.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_leaf_spot\\7a766a128d78548f.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_spot\\7a766a128d78548f.jpg",
+    "file_size_bytes": 34963
+  },
+  {
+    "manifest_id": 30,
+    "split": "train",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "7f6718a551753762.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_leaf_spot\\7f6718a551753762.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_spot\\7f6718a551753762.jpg",
+    "file_size_bytes": 20577
+  },
+  {
+    "manifest_id": 31,
+    "split": "train",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "82d057bc5c41394c.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_leaf_spot\\82d057bc5c41394c.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_spot\\82d057bc5c41394c.jpg",
+    "file_size_bytes": 33334
+  },
+  {
+    "manifest_id": 32,
+    "split": "train",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "83b44c294632cff6.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_leaf_spot\\83b44c294632cff6.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_spot\\83b44c294632cff6.jpg",
+    "file_size_bytes": 29262
+  },
+  {
+    "manifest_id": 33,
+    "split": "train",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "859eaaefcbf35298.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_leaf_spot\\859eaaefcbf35298.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_spot\\859eaaefcbf35298.jpg",
+    "file_size_bytes": 24361
+  },
+  {
+    "manifest_id": 34,
+    "split": "train",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "8ae01b2b4aa2acdc.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_leaf_spot\\8ae01b2b4aa2acdc.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_spot\\8ae01b2b4aa2acdc.jpg",
+    "file_size_bytes": 31397
+  },
+  {
+    "manifest_id": 35,
+    "split": "train",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "8b1230c6f3bf9537.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_leaf_spot\\8b1230c6f3bf9537.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_spot\\8b1230c6f3bf9537.jpg",
+    "file_size_bytes": 20547
+  },
+  {
+    "manifest_id": 36,
+    "split": "train",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "911314d58816a37d.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_leaf_spot\\911314d58816a37d.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_spot\\911314d58816a37d.jpg",
+    "file_size_bytes": 20594
+  },
+  {
+    "manifest_id": 37,
+    "split": "train",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "9b2dc44f1fea8670.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_leaf_spot\\9b2dc44f1fea8670.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_spot\\9b2dc44f1fea8670.jpg",
+    "file_size_bytes": 37877
+  },
+  {
+    "manifest_id": 38,
+    "split": "train",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "a133e26b82a8daec.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_leaf_spot\\a133e26b82a8daec.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_spot\\a133e26b82a8daec.jpg",
+    "file_size_bytes": 31500
+  },
+  {
+    "manifest_id": 39,
+    "split": "train",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "a267ce241d89e1a6.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_leaf_spot\\a267ce241d89e1a6.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_spot\\a267ce241d89e1a6.jpg",
+    "file_size_bytes": 23242
+  },
+  {
+    "manifest_id": 40,
+    "split": "train",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "a3045de72ec7626b.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_leaf_spot\\a3045de72ec7626b.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_spot\\a3045de72ec7626b.jpg",
+    "file_size_bytes": 27879
+  },
+  {
+    "manifest_id": 41,
+    "split": "train",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "a5c8fa9751251d42.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_leaf_spot\\a5c8fa9751251d42.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_spot\\a5c8fa9751251d42.jpg",
+    "file_size_bytes": 22876
+  },
+  {
+    "manifest_id": 42,
+    "split": "train",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "a9cdac6c78dc3d5e.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_leaf_spot\\a9cdac6c78dc3d5e.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_spot\\a9cdac6c78dc3d5e.jpg",
+    "file_size_bytes": 26875
+  },
+  {
+    "manifest_id": 43,
+    "split": "train",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "ad70f04849f895a5.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_leaf_spot\\ad70f04849f895a5.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_spot\\ad70f04849f895a5.jpg",
+    "file_size_bytes": 22973
+  },
+  {
+    "manifest_id": 44,
+    "split": "train",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "b2cdd69af1cbfe20.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_leaf_spot\\b2cdd69af1cbfe20.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_spot\\b2cdd69af1cbfe20.jpg",
+    "file_size_bytes": 18882
+  },
+  {
+    "manifest_id": 45,
+    "split": "train",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "b3c9542a6a4cf926.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_leaf_spot\\b3c9542a6a4cf926.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_spot\\b3c9542a6a4cf926.jpg",
+    "file_size_bytes": 19451
+  },
+  {
+    "manifest_id": 46,
+    "split": "train",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "b634391244684406.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_leaf_spot\\b634391244684406.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_spot\\b634391244684406.jpg",
+    "file_size_bytes": 28145
+  },
+  {
+    "manifest_id": 47,
+    "split": "train",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "b775d95f4abae6eb.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_leaf_spot\\b775d95f4abae6eb.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_spot\\b775d95f4abae6eb.jpg",
+    "file_size_bytes": 26717
+  },
+  {
+    "manifest_id": 48,
+    "split": "train",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "b8f11d0e73109ff5.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_leaf_spot\\b8f11d0e73109ff5.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_spot\\b8f11d0e73109ff5.jpg",
+    "file_size_bytes": 29120
+  },
+  {
+    "manifest_id": 49,
+    "split": "train",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "b9800dd6121accb7.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_leaf_spot\\b9800dd6121accb7.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_spot\\b9800dd6121accb7.jpg",
+    "file_size_bytes": 29079
+  },
+  {
+    "manifest_id": 50,
+    "split": "train",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "bb71320f10d70845.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_leaf_spot\\bb71320f10d70845.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_spot\\bb71320f10d70845.jpg",
+    "file_size_bytes": 24496
+  },
+  {
+    "manifest_id": 51,
+    "split": "train",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "c43aeca41451755c.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_leaf_spot\\c43aeca41451755c.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_spot\\c43aeca41451755c.jpg",
+    "file_size_bytes": 24538
+  },
+  {
+    "manifest_id": 52,
+    "split": "train",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "c62deb9cda4e744b.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_leaf_spot\\c62deb9cda4e744b.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_spot\\c62deb9cda4e744b.jpg",
+    "file_size_bytes": 22830
+  },
+  {
+    "manifest_id": 53,
+    "split": "train",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "c6974bd87eaf13b3.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_leaf_spot\\c6974bd87eaf13b3.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_spot\\c6974bd87eaf13b3.jpg",
+    "file_size_bytes": 17005
+  },
+  {
+    "manifest_id": 54,
+    "split": "train",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "cb281bd7efbae380.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_leaf_spot\\cb281bd7efbae380.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_spot\\cb281bd7efbae380.jpg",
+    "file_size_bytes": 23691
+  },
+  {
+    "manifest_id": 55,
+    "split": "train",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "cd47f80b40dff1f2.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_leaf_spot\\cd47f80b40dff1f2.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_spot\\cd47f80b40dff1f2.jpg",
+    "file_size_bytes": 33046
+  },
+  {
+    "manifest_id": 56,
+    "split": "train",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "cefa2bd284506f47.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_leaf_spot\\cefa2bd284506f47.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_spot\\cefa2bd284506f47.jpg",
+    "file_size_bytes": 23360
+  },
+  {
+    "manifest_id": 57,
+    "split": "train",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "cf58b413dc9e61a8.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_leaf_spot\\cf58b413dc9e61a8.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_spot\\cf58b413dc9e61a8.jpg",
+    "file_size_bytes": 30296
+  },
+  {
+    "manifest_id": 58,
+    "split": "train",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "d52ac12cfabc7397.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_leaf_spot\\d52ac12cfabc7397.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_spot\\d52ac12cfabc7397.jpg",
+    "file_size_bytes": 25771
+  },
+  {
+    "manifest_id": 59,
+    "split": "train",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "d687a25b410d3556.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_leaf_spot\\d687a25b410d3556.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_spot\\d687a25b410d3556.jpg",
+    "file_size_bytes": 18044
+  },
+  {
+    "manifest_id": 60,
+    "split": "train",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "d97f5c69cffac978.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_leaf_spot\\d97f5c69cffac978.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_spot\\d97f5c69cffac978.jpg",
+    "file_size_bytes": 31914
+  },
+  {
+    "manifest_id": 61,
+    "split": "train",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "e1f1daa834f094e9.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_leaf_spot\\e1f1daa834f094e9.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_spot\\e1f1daa834f094e9.jpg",
+    "file_size_bytes": 22186
+  },
+  {
+    "manifest_id": 62,
+    "split": "train",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "e21eb38b3cf7cbb6.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_leaf_spot\\e21eb38b3cf7cbb6.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_spot\\e21eb38b3cf7cbb6.jpg",
+    "file_size_bytes": 20145
+  },
+  {
+    "manifest_id": 63,
+    "split": "train",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "e5844771b487f68b.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_leaf_spot\\e5844771b487f68b.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_spot\\e5844771b487f68b.jpg",
+    "file_size_bytes": 19525
+  },
+  {
+    "manifest_id": 64,
+    "split": "train",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "eb4c9b17f9baea6d.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_leaf_spot\\eb4c9b17f9baea6d.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_spot\\eb4c9b17f9baea6d.jpg",
+    "file_size_bytes": 22352
+  },
+  {
+    "manifest_id": 65,
+    "split": "train",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "f1a6de284da23774.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_leaf_spot\\f1a6de284da23774.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_spot\\f1a6de284da23774.jpg",
+    "file_size_bytes": 22076
+  },
+  {
+    "manifest_id": 66,
+    "split": "train",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "f79a828c4bd6550c.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_leaf_spot\\f79a828c4bd6550c.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_spot\\f79a828c4bd6550c.jpg",
+    "file_size_bytes": 22697
+  },
+  {
+    "manifest_id": 67,
+    "split": "train",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "f92e80abf074bcbd.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_leaf_spot\\f92e80abf074bcbd.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___bacterial_spot\\f92e80abf074bcbd.jpg",
+    "file_size_bytes": 33135
+  },
+  {
+    "manifest_id": 68,
+    "split": "val",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "0113b21e3abe1d9f.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\tomato___bacterial_leaf_spot\\0113b21e3abe1d9f.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\tomato___bacterial_spot\\0113b21e3abe1d9f.jpg",
+    "file_size_bytes": 33757
+  },
+  {
+    "manifest_id": 69,
+    "split": "val",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "0e60041998d577f8.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\tomato___bacterial_leaf_spot\\0e60041998d577f8.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\tomato___bacterial_spot\\0e60041998d577f8.jpg",
+    "file_size_bytes": 28418
+  },
+  {
+    "manifest_id": 70,
+    "split": "val",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "0e80f6f02654439c.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\tomato___bacterial_leaf_spot\\0e80f6f02654439c.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\tomato___bacterial_spot\\0e80f6f02654439c.jpg",
+    "file_size_bytes": 24534
+  },
+  {
+    "manifest_id": 71,
+    "split": "val",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "37f283b1586a5ab8.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\tomato___bacterial_leaf_spot\\37f283b1586a5ab8.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\tomato___bacterial_spot\\37f283b1586a5ab8.jpg",
+    "file_size_bytes": 27676
+  },
+  {
+    "manifest_id": 72,
+    "split": "val",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "39f9a4a863ab0282.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\tomato___bacterial_leaf_spot\\39f9a4a863ab0282.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\tomato___bacterial_spot\\39f9a4a863ab0282.jpg",
+    "file_size_bytes": 20181
+  },
+  {
+    "manifest_id": 73,
+    "split": "val",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "3f67d6f1e8412543.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\tomato___bacterial_leaf_spot\\3f67d6f1e8412543.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\tomato___bacterial_spot\\3f67d6f1e8412543.jpg",
+    "file_size_bytes": 22281
+  },
+  {
+    "manifest_id": 74,
+    "split": "val",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "4eb016394490338c.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\tomato___bacterial_leaf_spot\\4eb016394490338c.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\tomato___bacterial_spot\\4eb016394490338c.jpg",
+    "file_size_bytes": 30640
+  },
+  {
+    "manifest_id": 75,
+    "split": "val",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "73fcfac8a1085319.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\tomato___bacterial_leaf_spot\\73fcfac8a1085319.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\tomato___bacterial_spot\\73fcfac8a1085319.jpg",
+    "file_size_bytes": 27076
+  },
+  {
+    "manifest_id": 76,
+    "split": "val",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "84b2e6e9fc5f853c.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\tomato___bacterial_leaf_spot\\84b2e6e9fc5f853c.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\tomato___bacterial_spot\\84b2e6e9fc5f853c.jpg",
+    "file_size_bytes": 21677
+  },
+  {
+    "manifest_id": 77,
+    "split": "val",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "8cd816fa9d620063.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\tomato___bacterial_leaf_spot\\8cd816fa9d620063.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\tomato___bacterial_spot\\8cd816fa9d620063.jpg",
+    "file_size_bytes": 27056
+  },
+  {
+    "manifest_id": 78,
+    "split": "val",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "915dfdbade344223.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\tomato___bacterial_leaf_spot\\915dfdbade344223.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\tomato___bacterial_spot\\915dfdbade344223.jpg",
+    "file_size_bytes": 33491
+  },
+  {
+    "manifest_id": 79,
+    "split": "val",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "984edb0b8a982145.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\tomato___bacterial_leaf_spot\\984edb0b8a982145.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\tomato___bacterial_spot\\984edb0b8a982145.jpg",
+    "file_size_bytes": 24492
+  },
+  {
+    "manifest_id": 80,
+    "split": "val",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "e51376d810f18a70.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\tomato___bacterial_leaf_spot\\e51376d810f18a70.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\tomato___bacterial_spot\\e51376d810f18a70.jpg",
+    "file_size_bytes": 24865
+  },
+  {
+    "manifest_id": 81,
+    "split": "val",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "f6af382649670cfc.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\tomato___bacterial_leaf_spot\\f6af382649670cfc.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\tomato___bacterial_spot\\f6af382649670cfc.jpg",
+    "file_size_bytes": 31212
+  },
+  {
+    "manifest_id": 82,
+    "split": "test",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "1449b6a24564f08d.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\tomato___bacterial_leaf_spot\\1449b6a24564f08d.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\tomato___bacterial_spot\\1449b6a24564f08d.jpg",
+    "file_size_bytes": 27972
+  },
+  {
+    "manifest_id": 83,
+    "split": "test",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "1c8616b6ffebf013.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\tomato___bacterial_leaf_spot\\1c8616b6ffebf013.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\tomato___bacterial_spot\\1c8616b6ffebf013.jpg",
+    "file_size_bytes": 37118
+  },
+  {
+    "manifest_id": 84,
+    "split": "test",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "30ccd8da51972c22.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\tomato___bacterial_leaf_spot\\30ccd8da51972c22.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\tomato___bacterial_spot\\30ccd8da51972c22.jpg",
+    "file_size_bytes": 38305
+  },
+  {
+    "manifest_id": 85,
+    "split": "test",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "3341c9b20320a4ae.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\tomato___bacterial_leaf_spot\\3341c9b20320a4ae.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\tomato___bacterial_spot\\3341c9b20320a4ae.jpg",
+    "file_size_bytes": 15751
+  },
+  {
+    "manifest_id": 86,
+    "split": "test",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "76d12e372988337d.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\tomato___bacterial_leaf_spot\\76d12e372988337d.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\tomato___bacterial_spot\\76d12e372988337d.jpg",
+    "file_size_bytes": 31697
+  },
+  {
+    "manifest_id": 87,
+    "split": "test",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "9548c11e8d032717.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\tomato___bacterial_leaf_spot\\9548c11e8d032717.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\tomato___bacterial_spot\\9548c11e8d032717.jpg",
+    "file_size_bytes": 24628
+  },
+  {
+    "manifest_id": 88,
+    "split": "test",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "a2ae9039d4f82548.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\tomato___bacterial_leaf_spot\\a2ae9039d4f82548.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\tomato___bacterial_spot\\a2ae9039d4f82548.jpg",
+    "file_size_bytes": 26765
+  },
+  {
+    "manifest_id": 89,
+    "split": "test",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "a7776a68b9f599dc.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\tomato___bacterial_leaf_spot\\a7776a68b9f599dc.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\tomato___bacterial_spot\\a7776a68b9f599dc.jpg",
+    "file_size_bytes": 32517
+  },
+  {
+    "manifest_id": 90,
+    "split": "test",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "b0c401cc3b3beaf8.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\tomato___bacterial_leaf_spot\\b0c401cc3b3beaf8.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\tomato___bacterial_spot\\b0c401cc3b3beaf8.jpg",
+    "file_size_bytes": 19755
+  },
+  {
+    "manifest_id": 91,
+    "split": "test",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "b1abda3208c91151.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\tomato___bacterial_leaf_spot\\b1abda3208c91151.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\tomato___bacterial_spot\\b1abda3208c91151.jpg",
+    "file_size_bytes": 20795
+  },
+  {
+    "manifest_id": 92,
+    "split": "test",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "b30babdb6b6fc9f8.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\tomato___bacterial_leaf_spot\\b30babdb6b6fc9f8.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\tomato___bacterial_spot\\b30babdb6b6fc9f8.jpg",
+    "file_size_bytes": 29510
+  },
+  {
+    "manifest_id": 93,
+    "split": "test",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "c377861f77a036dd.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\tomato___bacterial_leaf_spot\\c377861f77a036dd.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\tomato___bacterial_spot\\c377861f77a036dd.jpg",
+    "file_size_bytes": 31318
+  },
+  {
+    "manifest_id": 94,
+    "split": "test",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "c4836dfd8a20fb81.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\tomato___bacterial_leaf_spot\\c4836dfd8a20fb81.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\tomato___bacterial_spot\\c4836dfd8a20fb81.jpg",
+    "file_size_bytes": 42276
+  },
+  {
+    "manifest_id": 95,
+    "split": "test",
+    "source_class": "tomato___bacterial_leaf_spot",
+    "target_class": "tomato___bacterial_spot",
+    "filename": "ec4ae71ab25e7054.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\tomato___bacterial_leaf_spot\\ec4ae71ab25e7054.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\tomato___bacterial_spot\\ec4ae71ab25e7054.jpg",
+    "file_size_bytes": 25587
+  },
+  {
+    "manifest_id": 96,
+    "split": "train",
+    "source_class": "tomato___mosaic_virus",
+    "target_class": "tomato___tomato_mosaic_virus",
+    "filename": "07828e340a30a5b3.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___mosaic_virus\\07828e340a30a5b3.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_mosaic_virus\\07828e340a30a5b3.jpg",
+    "file_size_bytes": 24300
+  },
+  {
+    "manifest_id": 97,
+    "split": "train",
+    "source_class": "tomato___mosaic_virus",
+    "target_class": "tomato___tomato_mosaic_virus",
+    "filename": "12fb606f07f693c2.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___mosaic_virus\\12fb606f07f693c2.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_mosaic_virus\\12fb606f07f693c2.jpg",
+    "file_size_bytes": 33816
+  },
+  {
+    "manifest_id": 98,
+    "split": "train",
+    "source_class": "tomato___mosaic_virus",
+    "target_class": "tomato___tomato_mosaic_virus",
+    "filename": "1818340261da5c30.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___mosaic_virus\\1818340261da5c30.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_mosaic_virus\\1818340261da5c30.jpg",
+    "file_size_bytes": 21455
+  },
+  {
+    "manifest_id": 99,
+    "split": "train",
+    "source_class": "tomato___mosaic_virus",
+    "target_class": "tomato___tomato_mosaic_virus",
+    "filename": "201673e93587c349.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___mosaic_virus\\201673e93587c349.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_mosaic_virus\\201673e93587c349.jpg",
+    "file_size_bytes": 29013
+  },
+  {
+    "manifest_id": 100,
+    "split": "train",
+    "source_class": "tomato___mosaic_virus",
+    "target_class": "tomato___tomato_mosaic_virus",
+    "filename": "27221cabfec983d5.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___mosaic_virus\\27221cabfec983d5.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_mosaic_virus\\27221cabfec983d5.jpg",
+    "file_size_bytes": 30448
+  },
+  {
+    "manifest_id": 101,
+    "split": "train",
+    "source_class": "tomato___mosaic_virus",
+    "target_class": "tomato___tomato_mosaic_virus",
+    "filename": "2998de2de410ffa5.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___mosaic_virus\\2998de2de410ffa5.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_mosaic_virus\\2998de2de410ffa5.jpg",
+    "file_size_bytes": 19910
+  },
+  {
+    "manifest_id": 102,
+    "split": "train",
+    "source_class": "tomato___mosaic_virus",
+    "target_class": "tomato___tomato_mosaic_virus",
+    "filename": "2af62db766d2e38d.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___mosaic_virus\\2af62db766d2e38d.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_mosaic_virus\\2af62db766d2e38d.jpg",
+    "file_size_bytes": 30834
+  },
+  {
+    "manifest_id": 103,
+    "split": "train",
+    "source_class": "tomato___mosaic_virus",
+    "target_class": "tomato___tomato_mosaic_virus",
+    "filename": "32600f86ada50bea.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___mosaic_virus\\32600f86ada50bea.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_mosaic_virus\\32600f86ada50bea.jpg",
+    "file_size_bytes": 19506
+  },
+  {
+    "manifest_id": 104,
+    "split": "train",
+    "source_class": "tomato___mosaic_virus",
+    "target_class": "tomato___tomato_mosaic_virus",
+    "filename": "326a01675263f897.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___mosaic_virus\\326a01675263f897.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_mosaic_virus\\326a01675263f897.jpg",
+    "file_size_bytes": 20864
+  },
+  {
+    "manifest_id": 105,
+    "split": "train",
+    "source_class": "tomato___mosaic_virus",
+    "target_class": "tomato___tomato_mosaic_virus",
+    "filename": "3cc8b03694de422e.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___mosaic_virus\\3cc8b03694de422e.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_mosaic_virus\\3cc8b03694de422e.jpg",
+    "file_size_bytes": 19912
+  },
+  {
+    "manifest_id": 106,
+    "split": "train",
+    "source_class": "tomato___mosaic_virus",
+    "target_class": "tomato___tomato_mosaic_virus",
+    "filename": "4d6d4e84d11f2cc0.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___mosaic_virus\\4d6d4e84d11f2cc0.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_mosaic_virus\\4d6d4e84d11f2cc0.jpg",
+    "file_size_bytes": 23426
+  },
+  {
+    "manifest_id": 107,
+    "split": "train",
+    "source_class": "tomato___mosaic_virus",
+    "target_class": "tomato___tomato_mosaic_virus",
+    "filename": "54586903e500a73f.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___mosaic_virus\\54586903e500a73f.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_mosaic_virus\\54586903e500a73f.jpg",
+    "file_size_bytes": 31966
+  },
+  {
+    "manifest_id": 108,
+    "split": "train",
+    "source_class": "tomato___mosaic_virus",
+    "target_class": "tomato___tomato_mosaic_virus",
+    "filename": "55178bb117a0e617.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___mosaic_virus\\55178bb117a0e617.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_mosaic_virus\\55178bb117a0e617.jpg",
+    "file_size_bytes": 32343
+  },
+  {
+    "manifest_id": 109,
+    "split": "train",
+    "source_class": "tomato___mosaic_virus",
+    "target_class": "tomato___tomato_mosaic_virus",
+    "filename": "58d1edaf12075103.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___mosaic_virus\\58d1edaf12075103.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_mosaic_virus\\58d1edaf12075103.jpg",
+    "file_size_bytes": 27717
+  },
+  {
+    "manifest_id": 110,
+    "split": "train",
+    "source_class": "tomato___mosaic_virus",
+    "target_class": "tomato___tomato_mosaic_virus",
+    "filename": "6796f3a886eae065.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___mosaic_virus\\6796f3a886eae065.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_mosaic_virus\\6796f3a886eae065.jpg",
+    "file_size_bytes": 16281
+  },
+  {
+    "manifest_id": 111,
+    "split": "train",
+    "source_class": "tomato___mosaic_virus",
+    "target_class": "tomato___tomato_mosaic_virus",
+    "filename": "72b44ec4e89d4256.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___mosaic_virus\\72b44ec4e89d4256.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_mosaic_virus\\72b44ec4e89d4256.jpg",
+    "file_size_bytes": 26822
+  },
+  {
+    "manifest_id": 112,
+    "split": "train",
+    "source_class": "tomato___mosaic_virus",
+    "target_class": "tomato___tomato_mosaic_virus",
+    "filename": "768a12b11dec0fe4.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___mosaic_virus\\768a12b11dec0fe4.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_mosaic_virus\\768a12b11dec0fe4.jpg",
+    "file_size_bytes": 32894
+  },
+  {
+    "manifest_id": 113,
+    "split": "train",
+    "source_class": "tomato___mosaic_virus",
+    "target_class": "tomato___tomato_mosaic_virus",
+    "filename": "867c69c34a7c0467.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___mosaic_virus\\867c69c34a7c0467.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_mosaic_virus\\867c69c34a7c0467.jpg",
+    "file_size_bytes": 32837
+  },
+  {
+    "manifest_id": 114,
+    "split": "train",
+    "source_class": "tomato___mosaic_virus",
+    "target_class": "tomato___tomato_mosaic_virus",
+    "filename": "90e5b84738893959.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___mosaic_virus\\90e5b84738893959.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_mosaic_virus\\90e5b84738893959.jpg",
+    "file_size_bytes": 34807
+  },
+  {
+    "manifest_id": 115,
+    "split": "train",
+    "source_class": "tomato___mosaic_virus",
+    "target_class": "tomato___tomato_mosaic_virus",
+    "filename": "926a2d8d20f49daf.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___mosaic_virus\\926a2d8d20f49daf.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_mosaic_virus\\926a2d8d20f49daf.jpg",
+    "file_size_bytes": 23761
+  },
+  {
+    "manifest_id": 116,
+    "split": "train",
+    "source_class": "tomato___mosaic_virus",
+    "target_class": "tomato___tomato_mosaic_virus",
+    "filename": "975f03a5c6389f26.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___mosaic_virus\\975f03a5c6389f26.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_mosaic_virus\\975f03a5c6389f26.jpg",
+    "file_size_bytes": 30962
+  },
+  {
+    "manifest_id": 117,
+    "split": "train",
+    "source_class": "tomato___mosaic_virus",
+    "target_class": "tomato___tomato_mosaic_virus",
+    "filename": "acd4616015371105.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___mosaic_virus\\acd4616015371105.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_mosaic_virus\\acd4616015371105.jpg",
+    "file_size_bytes": 36570
+  },
+  {
+    "manifest_id": 118,
+    "split": "train",
+    "source_class": "tomato___mosaic_virus",
+    "target_class": "tomato___tomato_mosaic_virus",
+    "filename": "b18bd942d302927b.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___mosaic_virus\\b18bd942d302927b.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_mosaic_virus\\b18bd942d302927b.jpg",
+    "file_size_bytes": 27475
+  },
+  {
+    "manifest_id": 119,
+    "split": "train",
+    "source_class": "tomato___mosaic_virus",
+    "target_class": "tomato___tomato_mosaic_virus",
+    "filename": "b2918b836223ffbf.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___mosaic_virus\\b2918b836223ffbf.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_mosaic_virus\\b2918b836223ffbf.jpg",
+    "file_size_bytes": 38912
+  },
+  {
+    "manifest_id": 120,
+    "split": "train",
+    "source_class": "tomato___mosaic_virus",
+    "target_class": "tomato___tomato_mosaic_virus",
+    "filename": "bcb19d247608168c.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___mosaic_virus\\bcb19d247608168c.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_mosaic_virus\\bcb19d247608168c.jpg",
+    "file_size_bytes": 31278
+  },
+  {
+    "manifest_id": 121,
+    "split": "train",
+    "source_class": "tomato___mosaic_virus",
+    "target_class": "tomato___tomato_mosaic_virus",
+    "filename": "c18ad5d147d91f9f.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___mosaic_virus\\c18ad5d147d91f9f.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_mosaic_virus\\c18ad5d147d91f9f.jpg",
+    "file_size_bytes": 25944
+  },
+  {
+    "manifest_id": 122,
+    "split": "train",
+    "source_class": "tomato___mosaic_virus",
+    "target_class": "tomato___tomato_mosaic_virus",
+    "filename": "c3cb97a1b9dac360.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___mosaic_virus\\c3cb97a1b9dac360.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_mosaic_virus\\c3cb97a1b9dac360.jpg",
+    "file_size_bytes": 30915
+  },
+  {
+    "manifest_id": 123,
+    "split": "train",
+    "source_class": "tomato___mosaic_virus",
+    "target_class": "tomato___tomato_mosaic_virus",
+    "filename": "c65b627d7ff6857a.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___mosaic_virus\\c65b627d7ff6857a.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_mosaic_virus\\c65b627d7ff6857a.jpg",
+    "file_size_bytes": 23532
+  },
+  {
+    "manifest_id": 124,
+    "split": "train",
+    "source_class": "tomato___mosaic_virus",
+    "target_class": "tomato___tomato_mosaic_virus",
+    "filename": "ca40b812fa0d7f3f.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___mosaic_virus\\ca40b812fa0d7f3f.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_mosaic_virus\\ca40b812fa0d7f3f.jpg",
+    "file_size_bytes": 31878
+  },
+  {
+    "manifest_id": 125,
+    "split": "train",
+    "source_class": "tomato___mosaic_virus",
+    "target_class": "tomato___tomato_mosaic_virus",
+    "filename": "cca54bdc78d2bb80.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___mosaic_virus\\cca54bdc78d2bb80.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_mosaic_virus\\cca54bdc78d2bb80.jpg",
+    "file_size_bytes": 30610
+  },
+  {
+    "manifest_id": 126,
+    "split": "train",
+    "source_class": "tomato___mosaic_virus",
+    "target_class": "tomato___tomato_mosaic_virus",
+    "filename": "ce864e5036f71d56.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___mosaic_virus\\ce864e5036f71d56.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_mosaic_virus\\ce864e5036f71d56.jpg",
+    "file_size_bytes": 20278
+  },
+  {
+    "manifest_id": 127,
+    "split": "train",
+    "source_class": "tomato___mosaic_virus",
+    "target_class": "tomato___tomato_mosaic_virus",
+    "filename": "d1eb681b3c33820c.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___mosaic_virus\\d1eb681b3c33820c.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_mosaic_virus\\d1eb681b3c33820c.jpg",
+    "file_size_bytes": 29806
+  },
+  {
+    "manifest_id": 128,
+    "split": "train",
+    "source_class": "tomato___mosaic_virus",
+    "target_class": "tomato___tomato_mosaic_virus",
+    "filename": "d40bf0bd38c409c1.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___mosaic_virus\\d40bf0bd38c409c1.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_mosaic_virus\\d40bf0bd38c409c1.jpg",
+    "file_size_bytes": 27816
+  },
+  {
+    "manifest_id": 129,
+    "split": "train",
+    "source_class": "tomato___mosaic_virus",
+    "target_class": "tomato___tomato_mosaic_virus",
+    "filename": "da1bc916e445dac7.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___mosaic_virus\\da1bc916e445dac7.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_mosaic_virus\\da1bc916e445dac7.jpg",
+    "file_size_bytes": 22574
+  },
+  {
+    "manifest_id": 130,
+    "split": "train",
+    "source_class": "tomato___mosaic_virus",
+    "target_class": "tomato___tomato_mosaic_virus",
+    "filename": "e62abc4124af5775.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___mosaic_virus\\e62abc4124af5775.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_mosaic_virus\\e62abc4124af5775.jpg",
+    "file_size_bytes": 26084
+  },
+  {
+    "manifest_id": 131,
+    "split": "train",
+    "source_class": "tomato___mosaic_virus",
+    "target_class": "tomato___tomato_mosaic_virus",
+    "filename": "ecb3103d25bc3058.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___mosaic_virus\\ecb3103d25bc3058.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_mosaic_virus\\ecb3103d25bc3058.jpg",
+    "file_size_bytes": 25158
+  },
+  {
+    "manifest_id": 132,
+    "split": "train",
+    "source_class": "tomato___mosaic_virus",
+    "target_class": "tomato___tomato_mosaic_virus",
+    "filename": "f15357f6f11bfca1.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___mosaic_virus\\f15357f6f11bfca1.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_mosaic_virus\\f15357f6f11bfca1.jpg",
+    "file_size_bytes": 23020
+  },
+  {
+    "manifest_id": 133,
+    "split": "train",
+    "source_class": "tomato___mosaic_virus",
+    "target_class": "tomato___tomato_mosaic_virus",
+    "filename": "f4f0de985ad380b9.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___mosaic_virus\\f4f0de985ad380b9.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_mosaic_virus\\f4f0de985ad380b9.jpg",
+    "file_size_bytes": 38870
+  },
+  {
+    "manifest_id": 134,
+    "split": "train",
+    "source_class": "tomato___mosaic_virus",
+    "target_class": "tomato___tomato_mosaic_virus",
+    "filename": "f9e27ded924d8623.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___mosaic_virus\\f9e27ded924d8623.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_mosaic_virus\\f9e27ded924d8623.jpg",
+    "file_size_bytes": 26121
+  },
+  {
+    "manifest_id": 135,
+    "split": "val",
+    "source_class": "tomato___mosaic_virus",
+    "target_class": "tomato___tomato_mosaic_virus",
+    "filename": "13c4c556e1a2e7c1.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\tomato___mosaic_virus\\13c4c556e1a2e7c1.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\tomato___tomato_mosaic_virus\\13c4c556e1a2e7c1.jpg",
+    "file_size_bytes": 28883
+  },
+  {
+    "manifest_id": 136,
+    "split": "val",
+    "source_class": "tomato___mosaic_virus",
+    "target_class": "tomato___tomato_mosaic_virus",
+    "filename": "31c4a2f95d217a51.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\tomato___mosaic_virus\\31c4a2f95d217a51.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\tomato___tomato_mosaic_virus\\31c4a2f95d217a51.jpg",
+    "file_size_bytes": 22410
+  },
+  {
+    "manifest_id": 137,
+    "split": "val",
+    "source_class": "tomato___mosaic_virus",
+    "target_class": "tomato___tomato_mosaic_virus",
+    "filename": "3335f48684e67a24.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\tomato___mosaic_virus\\3335f48684e67a24.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\tomato___tomato_mosaic_virus\\3335f48684e67a24.jpg",
+    "file_size_bytes": 30751
+  },
+  {
+    "manifest_id": 138,
+    "split": "val",
+    "source_class": "tomato___mosaic_virus",
+    "target_class": "tomato___tomato_mosaic_virus",
+    "filename": "387fe33166ae5ce0.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\tomato___mosaic_virus\\387fe33166ae5ce0.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\tomato___tomato_mosaic_virus\\387fe33166ae5ce0.jpg",
+    "file_size_bytes": 24031
+  },
+  {
+    "manifest_id": 139,
+    "split": "val",
+    "source_class": "tomato___mosaic_virus",
+    "target_class": "tomato___tomato_mosaic_virus",
+    "filename": "66320183bb58e3b2.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\tomato___mosaic_virus\\66320183bb58e3b2.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\tomato___tomato_mosaic_virus\\66320183bb58e3b2.jpg",
+    "file_size_bytes": 31970
+  },
+  {
+    "manifest_id": 140,
+    "split": "val",
+    "source_class": "tomato___mosaic_virus",
+    "target_class": "tomato___tomato_mosaic_virus",
+    "filename": "8177a41c3f013d46.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\tomato___mosaic_virus\\8177a41c3f013d46.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\tomato___tomato_mosaic_virus\\8177a41c3f013d46.jpg",
+    "file_size_bytes": 31491
+  },
+  {
+    "manifest_id": 141,
+    "split": "val",
+    "source_class": "tomato___mosaic_virus",
+    "target_class": "tomato___tomato_mosaic_virus",
+    "filename": "b3fffd3fbebf684f.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\tomato___mosaic_virus\\b3fffd3fbebf684f.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\tomato___tomato_mosaic_virus\\b3fffd3fbebf684f.jpg",
+    "file_size_bytes": 13678
+  },
+  {
+    "manifest_id": 142,
+    "split": "val",
+    "source_class": "tomato___mosaic_virus",
+    "target_class": "tomato___tomato_mosaic_virus",
+    "filename": "c1b35c57b178618b.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\tomato___mosaic_virus\\c1b35c57b178618b.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\tomato___tomato_mosaic_virus\\c1b35c57b178618b.jpg",
+    "file_size_bytes": 29922
+  },
+  {
+    "manifest_id": 143,
+    "split": "val",
+    "source_class": "tomato___mosaic_virus",
+    "target_class": "tomato___tomato_mosaic_virus",
+    "filename": "c7e7fb152c8651b7.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\tomato___mosaic_virus\\c7e7fb152c8651b7.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\tomato___tomato_mosaic_virus\\c7e7fb152c8651b7.jpg",
+    "file_size_bytes": 25559
+  },
+  {
+    "manifest_id": 144,
+    "split": "test",
+    "source_class": "tomato___mosaic_virus",
+    "target_class": "tomato___tomato_mosaic_virus",
+    "filename": "19a6e1a81032cd85.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\tomato___mosaic_virus\\19a6e1a81032cd85.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\tomato___tomato_mosaic_virus\\19a6e1a81032cd85.jpg",
+    "file_size_bytes": 31149
+  },
+  {
+    "manifest_id": 145,
+    "split": "test",
+    "source_class": "tomato___mosaic_virus",
+    "target_class": "tomato___tomato_mosaic_virus",
+    "filename": "19b9cb3a4941ca04.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\tomato___mosaic_virus\\19b9cb3a4941ca04.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\tomato___tomato_mosaic_virus\\19b9cb3a4941ca04.jpg",
+    "file_size_bytes": 38245
+  },
+  {
+    "manifest_id": 146,
+    "split": "test",
+    "source_class": "tomato___mosaic_virus",
+    "target_class": "tomato___tomato_mosaic_virus",
+    "filename": "2b719bcae62e1f5c.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\tomato___mosaic_virus\\2b719bcae62e1f5c.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\tomato___tomato_mosaic_virus\\2b719bcae62e1f5c.jpg",
+    "file_size_bytes": 29163
+  },
+  {
+    "manifest_id": 147,
+    "split": "test",
+    "source_class": "tomato___mosaic_virus",
+    "target_class": "tomato___tomato_mosaic_virus",
+    "filename": "33de2eeb803a140d.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\tomato___mosaic_virus\\33de2eeb803a140d.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\tomato___tomato_mosaic_virus\\33de2eeb803a140d.jpg",
+    "file_size_bytes": 35952
+  },
+  {
+    "manifest_id": 148,
+    "split": "test",
+    "source_class": "tomato___mosaic_virus",
+    "target_class": "tomato___tomato_mosaic_virus",
+    "filename": "a78a6fa68f9c382e.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\tomato___mosaic_virus\\a78a6fa68f9c382e.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\tomato___tomato_mosaic_virus\\a78a6fa68f9c382e.jpg",
+    "file_size_bytes": 26179
+  },
+  {
+    "manifest_id": 149,
+    "split": "test",
+    "source_class": "tomato___mosaic_virus",
+    "target_class": "tomato___tomato_mosaic_virus",
+    "filename": "acd8c49488f5a060.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\tomato___mosaic_virus\\acd8c49488f5a060.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\tomato___tomato_mosaic_virus\\acd8c49488f5a060.jpg",
+    "file_size_bytes": 22909
+  },
+  {
+    "manifest_id": 150,
+    "split": "test",
+    "source_class": "tomato___mosaic_virus",
+    "target_class": "tomato___tomato_mosaic_virus",
+    "filename": "e66b232901bd0e88.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\tomato___mosaic_virus\\e66b232901bd0e88.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\tomato___tomato_mosaic_virus\\e66b232901bd0e88.jpg",
+    "file_size_bytes": 33240
+  },
+  {
+    "manifest_id": 151,
+    "split": "test",
+    "source_class": "tomato___mosaic_virus",
+    "target_class": "tomato___tomato_mosaic_virus",
+    "filename": "ee8c723bcb0b97ff.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\tomato___mosaic_virus\\ee8c723bcb0b97ff.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\tomato___tomato_mosaic_virus\\ee8c723bcb0b97ff.jpg",
+    "file_size_bytes": 26571
+  },
+  {
+    "manifest_id": 152,
+    "split": "train",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "00c6e288f2f6e411.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___yellow_leaf_curl_virus\\00c6e288f2f6e411.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_yellowleaf_curl_virus\\00c6e288f2f6e411.jpg",
+    "file_size_bytes": 28315
+  },
+  {
+    "manifest_id": 153,
+    "split": "train",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "0c4d266048051154.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___yellow_leaf_curl_virus\\0c4d266048051154.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_yellowleaf_curl_virus\\0c4d266048051154.jpg",
+    "file_size_bytes": 26597
+  },
+  {
+    "manifest_id": 154,
+    "split": "train",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "13f30b4f5bb78aa4.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___yellow_leaf_curl_virus\\13f30b4f5bb78aa4.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_yellowleaf_curl_virus\\13f30b4f5bb78aa4.jpg",
+    "file_size_bytes": 28464
+  },
+  {
+    "manifest_id": 155,
+    "split": "train",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "16b9556aefdf9f1f.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___yellow_leaf_curl_virus\\16b9556aefdf9f1f.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_yellowleaf_curl_virus\\16b9556aefdf9f1f.jpg",
+    "file_size_bytes": 30823
+  },
+  {
+    "manifest_id": 156,
+    "split": "train",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "1dcea818d1d2431e.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___yellow_leaf_curl_virus\\1dcea818d1d2431e.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_yellowleaf_curl_virus\\1dcea818d1d2431e.jpg",
+    "file_size_bytes": 33529
+  },
+  {
+    "manifest_id": 157,
+    "split": "train",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "229436c6d5fe44d3.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___yellow_leaf_curl_virus\\229436c6d5fe44d3.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_yellowleaf_curl_virus\\229436c6d5fe44d3.jpg",
+    "file_size_bytes": 24302
+  },
+  {
+    "manifest_id": 158,
+    "split": "train",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "2903956adc98277f.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___yellow_leaf_curl_virus\\2903956adc98277f.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_yellowleaf_curl_virus\\2903956adc98277f.jpg",
+    "file_size_bytes": 30803
+  },
+  {
+    "manifest_id": 159,
+    "split": "train",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "297cfc34958de44d.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___yellow_leaf_curl_virus\\297cfc34958de44d.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_yellowleaf_curl_virus\\297cfc34958de44d.jpg",
+    "file_size_bytes": 24652
+  },
+  {
+    "manifest_id": 160,
+    "split": "train",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "2a60d1da030b3183.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___yellow_leaf_curl_virus\\2a60d1da030b3183.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_yellowleaf_curl_virus\\2a60d1da030b3183.jpg",
+    "file_size_bytes": 28404
+  },
+  {
+    "manifest_id": 161,
+    "split": "train",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "3eb04004cd98f709.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___yellow_leaf_curl_virus\\3eb04004cd98f709.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_yellowleaf_curl_virus\\3eb04004cd98f709.jpg",
+    "file_size_bytes": 31018
+  },
+  {
+    "manifest_id": 162,
+    "split": "train",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "42327876d3d72e24.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___yellow_leaf_curl_virus\\42327876d3d72e24.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_yellowleaf_curl_virus\\42327876d3d72e24.jpg",
+    "file_size_bytes": 34287
+  },
+  {
+    "manifest_id": 163,
+    "split": "train",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "429a4c1f22525f83.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___yellow_leaf_curl_virus\\429a4c1f22525f83.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_yellowleaf_curl_virus\\429a4c1f22525f83.jpg",
+    "file_size_bytes": 31946
+  },
+  {
+    "manifest_id": 164,
+    "split": "train",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "45743782b24a0f1c.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___yellow_leaf_curl_virus\\45743782b24a0f1c.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_yellowleaf_curl_virus\\45743782b24a0f1c.jpg",
+    "file_size_bytes": 27674
+  },
+  {
+    "manifest_id": 165,
+    "split": "train",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "4582282a4bd759c3.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___yellow_leaf_curl_virus\\4582282a4bd759c3.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_yellowleaf_curl_virus\\4582282a4bd759c3.jpg",
+    "file_size_bytes": 37176
+  },
+  {
+    "manifest_id": 166,
+    "split": "train",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "47b1f1aa0d3c5591.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___yellow_leaf_curl_virus\\47b1f1aa0d3c5591.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_yellowleaf_curl_virus\\47b1f1aa0d3c5591.jpg",
+    "file_size_bytes": 33221
+  },
+  {
+    "manifest_id": 167,
+    "split": "train",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "47bdc0845af173ae.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___yellow_leaf_curl_virus\\47bdc0845af173ae.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_yellowleaf_curl_virus\\47bdc0845af173ae.jpg",
+    "file_size_bytes": 28386
+  },
+  {
+    "manifest_id": 168,
+    "split": "train",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "48dacbad1a83bb6d.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___yellow_leaf_curl_virus\\48dacbad1a83bb6d.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_yellowleaf_curl_virus\\48dacbad1a83bb6d.jpg",
+    "file_size_bytes": 27414
+  },
+  {
+    "manifest_id": 169,
+    "split": "train",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "54b027b8a3612790.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___yellow_leaf_curl_virus\\54b027b8a3612790.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_yellowleaf_curl_virus\\54b027b8a3612790.jpg",
+    "file_size_bytes": 34093
+  },
+  {
+    "manifest_id": 170,
+    "split": "train",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "560b061dadb566e7.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___yellow_leaf_curl_virus\\560b061dadb566e7.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_yellowleaf_curl_virus\\560b061dadb566e7.jpg",
+    "file_size_bytes": 31266
+  },
+  {
+    "manifest_id": 171,
+    "split": "train",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "57646c81b77fc8ec.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___yellow_leaf_curl_virus\\57646c81b77fc8ec.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_yellowleaf_curl_virus\\57646c81b77fc8ec.jpg",
+    "file_size_bytes": 27417
+  },
+  {
+    "manifest_id": 172,
+    "split": "train",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "58057f61b86f71bf.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___yellow_leaf_curl_virus\\58057f61b86f71bf.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_yellowleaf_curl_virus\\58057f61b86f71bf.jpg",
+    "file_size_bytes": 34581
+  },
+  {
+    "manifest_id": 173,
+    "split": "train",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "594009708d7f9bbf.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___yellow_leaf_curl_virus\\594009708d7f9bbf.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_yellowleaf_curl_virus\\594009708d7f9bbf.jpg",
+    "file_size_bytes": 34631
+  },
+  {
+    "manifest_id": 174,
+    "split": "train",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "5a7d5b1131492d53.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___yellow_leaf_curl_virus\\5a7d5b1131492d53.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_yellowleaf_curl_virus\\5a7d5b1131492d53.jpg",
+    "file_size_bytes": 34253
+  },
+  {
+    "manifest_id": 175,
+    "split": "train",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "5f8396527bee5fbd.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___yellow_leaf_curl_virus\\5f8396527bee5fbd.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_yellowleaf_curl_virus\\5f8396527bee5fbd.jpg",
+    "file_size_bytes": 26008
+  },
+  {
+    "manifest_id": 176,
+    "split": "train",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "5fc16c06fb05846e.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___yellow_leaf_curl_virus\\5fc16c06fb05846e.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_yellowleaf_curl_virus\\5fc16c06fb05846e.jpg",
+    "file_size_bytes": 20933
+  },
+  {
+    "manifest_id": 177,
+    "split": "train",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "609937e60e5ac09c.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___yellow_leaf_curl_virus\\609937e60e5ac09c.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_yellowleaf_curl_virus\\609937e60e5ac09c.jpg",
+    "file_size_bytes": 38521
+  },
+  {
+    "manifest_id": 178,
+    "split": "train",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "647ca7cc5d864510.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___yellow_leaf_curl_virus\\647ca7cc5d864510.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_yellowleaf_curl_virus\\647ca7cc5d864510.jpg",
+    "file_size_bytes": 37121
+  },
+  {
+    "manifest_id": 179,
+    "split": "train",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "65ba93fa682994d3.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___yellow_leaf_curl_virus\\65ba93fa682994d3.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_yellowleaf_curl_virus\\65ba93fa682994d3.jpg",
+    "file_size_bytes": 30364
+  },
+  {
+    "manifest_id": 180,
+    "split": "train",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "6a867d371b9ed49b.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___yellow_leaf_curl_virus\\6a867d371b9ed49b.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_yellowleaf_curl_virus\\6a867d371b9ed49b.jpg",
+    "file_size_bytes": 26872
+  },
+  {
+    "manifest_id": 181,
+    "split": "train",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "6b09c9ba54c506f1.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___yellow_leaf_curl_virus\\6b09c9ba54c506f1.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_yellowleaf_curl_virus\\6b09c9ba54c506f1.jpg",
+    "file_size_bytes": 34666
+  },
+  {
+    "manifest_id": 182,
+    "split": "train",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "7142a3178d8e2f02.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___yellow_leaf_curl_virus\\7142a3178d8e2f02.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_yellowleaf_curl_virus\\7142a3178d8e2f02.jpg",
+    "file_size_bytes": 38407
+  },
+  {
+    "manifest_id": 183,
+    "split": "train",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "73ad70145553b463.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___yellow_leaf_curl_virus\\73ad70145553b463.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_yellowleaf_curl_virus\\73ad70145553b463.jpg",
+    "file_size_bytes": 35131
+  },
+  {
+    "manifest_id": 184,
+    "split": "train",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "74b38a233875ae08.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___yellow_leaf_curl_virus\\74b38a233875ae08.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_yellowleaf_curl_virus\\74b38a233875ae08.jpg",
+    "file_size_bytes": 25882
+  },
+  {
+    "manifest_id": 185,
+    "split": "train",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "79041d0df1ce69d0.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___yellow_leaf_curl_virus\\79041d0df1ce69d0.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_yellowleaf_curl_virus\\79041d0df1ce69d0.jpg",
+    "file_size_bytes": 29490
+  },
+  {
+    "manifest_id": 186,
+    "split": "train",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "7ec84054d7cf0544.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___yellow_leaf_curl_virus\\7ec84054d7cf0544.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_yellowleaf_curl_virus\\7ec84054d7cf0544.jpg",
+    "file_size_bytes": 30908
+  },
+  {
+    "manifest_id": 187,
+    "split": "train",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "849ac0c9c0233714.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___yellow_leaf_curl_virus\\849ac0c9c0233714.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_yellowleaf_curl_virus\\849ac0c9c0233714.jpg",
+    "file_size_bytes": 38054
+  },
+  {
+    "manifest_id": 188,
+    "split": "train",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "886d661e01a9fed1.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___yellow_leaf_curl_virus\\886d661e01a9fed1.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_yellowleaf_curl_virus\\886d661e01a9fed1.jpg",
+    "file_size_bytes": 31521
+  },
+  {
+    "manifest_id": 189,
+    "split": "train",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "8998f6fce0f485ab.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___yellow_leaf_curl_virus\\8998f6fce0f485ab.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_yellowleaf_curl_virus\\8998f6fce0f485ab.jpg",
+    "file_size_bytes": 32504
+  },
+  {
+    "manifest_id": 190,
+    "split": "train",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "8df199b677137241.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___yellow_leaf_curl_virus\\8df199b677137241.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_yellowleaf_curl_virus\\8df199b677137241.jpg",
+    "file_size_bytes": 35128
+  },
+  {
+    "manifest_id": 191,
+    "split": "train",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "8efe7b052d5c56cb.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___yellow_leaf_curl_virus\\8efe7b052d5c56cb.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_yellowleaf_curl_virus\\8efe7b052d5c56cb.jpg",
+    "file_size_bytes": 34057
+  },
+  {
+    "manifest_id": 192,
+    "split": "train",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "9777949be81836fc.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___yellow_leaf_curl_virus\\9777949be81836fc.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_yellowleaf_curl_virus\\9777949be81836fc.jpg",
+    "file_size_bytes": 25233
+  },
+  {
+    "manifest_id": 193,
+    "split": "train",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "9be1e9f2ec286d37.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___yellow_leaf_curl_virus\\9be1e9f2ec286d37.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_yellowleaf_curl_virus\\9be1e9f2ec286d37.jpg",
+    "file_size_bytes": 36605
+  },
+  {
+    "manifest_id": 194,
+    "split": "train",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "b18e91b057600325.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___yellow_leaf_curl_virus\\b18e91b057600325.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_yellowleaf_curl_virus\\b18e91b057600325.jpg",
+    "file_size_bytes": 31966
+  },
+  {
+    "manifest_id": 195,
+    "split": "train",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "b2f43f4c595441f4.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___yellow_leaf_curl_virus\\b2f43f4c595441f4.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_yellowleaf_curl_virus\\b2f43f4c595441f4.jpg",
+    "file_size_bytes": 29965
+  },
+  {
+    "manifest_id": 196,
+    "split": "train",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "b34716fd9bacebc0.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___yellow_leaf_curl_virus\\b34716fd9bacebc0.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_yellowleaf_curl_virus\\b34716fd9bacebc0.jpg",
+    "file_size_bytes": 32453
+  },
+  {
+    "manifest_id": 197,
+    "split": "train",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "b7e8763764266e93.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___yellow_leaf_curl_virus\\b7e8763764266e93.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_yellowleaf_curl_virus\\b7e8763764266e93.jpg",
+    "file_size_bytes": 35898
+  },
+  {
+    "manifest_id": 198,
+    "split": "train",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "c4be17ba3e945eb2.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___yellow_leaf_curl_virus\\c4be17ba3e945eb2.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_yellowleaf_curl_virus\\c4be17ba3e945eb2.jpg",
+    "file_size_bytes": 33542
+  },
+  {
+    "manifest_id": 199,
+    "split": "train",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "caeb89fa46b7d6b9.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___yellow_leaf_curl_virus\\caeb89fa46b7d6b9.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_yellowleaf_curl_virus\\caeb89fa46b7d6b9.jpg",
+    "file_size_bytes": 28592
+  },
+  {
+    "manifest_id": 200,
+    "split": "train",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "ceac36d50b78e75c.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___yellow_leaf_curl_virus\\ceac36d50b78e75c.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_yellowleaf_curl_virus\\ceac36d50b78e75c.jpg",
+    "file_size_bytes": 35947
+  },
+  {
+    "manifest_id": 201,
+    "split": "train",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "cf25ea79b6fbbcfc.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___yellow_leaf_curl_virus\\cf25ea79b6fbbcfc.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_yellowleaf_curl_virus\\cf25ea79b6fbbcfc.jpg",
+    "file_size_bytes": 32211
+  },
+  {
+    "manifest_id": 202,
+    "split": "train",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "d07e377e73e5ec52.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___yellow_leaf_curl_virus\\d07e377e73e5ec52.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_yellowleaf_curl_virus\\d07e377e73e5ec52.jpg",
+    "file_size_bytes": 21452
+  },
+  {
+    "manifest_id": 203,
+    "split": "train",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "d5ede734b9cea6b0.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___yellow_leaf_curl_virus\\d5ede734b9cea6b0.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_yellowleaf_curl_virus\\d5ede734b9cea6b0.jpg",
+    "file_size_bytes": 32018
+  },
+  {
+    "manifest_id": 204,
+    "split": "train",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "d9941259c8a12849.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___yellow_leaf_curl_virus\\d9941259c8a12849.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_yellowleaf_curl_virus\\d9941259c8a12849.jpg",
+    "file_size_bytes": 37425
+  },
+  {
+    "manifest_id": 205,
+    "split": "train",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "e12930e70401cb97.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___yellow_leaf_curl_virus\\e12930e70401cb97.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_yellowleaf_curl_virus\\e12930e70401cb97.jpg",
+    "file_size_bytes": 23516
+  },
+  {
+    "manifest_id": 206,
+    "split": "train",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "eb1ab59d5eb49566.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___yellow_leaf_curl_virus\\eb1ab59d5eb49566.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_yellowleaf_curl_virus\\eb1ab59d5eb49566.jpg",
+    "file_size_bytes": 20571
+  },
+  {
+    "manifest_id": 207,
+    "split": "train",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "ee4349eb026082a0.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___yellow_leaf_curl_virus\\ee4349eb026082a0.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_yellowleaf_curl_virus\\ee4349eb026082a0.jpg",
+    "file_size_bytes": 20270
+  },
+  {
+    "manifest_id": 208,
+    "split": "train",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "eea78b218a657af7.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___yellow_leaf_curl_virus\\eea78b218a657af7.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_yellowleaf_curl_virus\\eea78b218a657af7.jpg",
+    "file_size_bytes": 37360
+  },
+  {
+    "manifest_id": 209,
+    "split": "train",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "f16159cb93493084.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___yellow_leaf_curl_virus\\f16159cb93493084.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_yellowleaf_curl_virus\\f16159cb93493084.jpg",
+    "file_size_bytes": 32533
+  },
+  {
+    "manifest_id": 210,
+    "split": "train",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "f4fc006f0d150a94.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___yellow_leaf_curl_virus\\f4fc006f0d150a94.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_yellowleaf_curl_virus\\f4fc006f0d150a94.jpg",
+    "file_size_bytes": 27765
+  },
+  {
+    "manifest_id": 211,
+    "split": "train",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "fdfccfa8cb9ab4bc.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___yellow_leaf_curl_virus\\fdfccfa8cb9ab4bc.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_yellowleaf_curl_virus\\fdfccfa8cb9ab4bc.jpg",
+    "file_size_bytes": 35257
+  },
+  {
+    "manifest_id": 212,
+    "split": "train",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "fe9f7ce33c52df5d.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___yellow_leaf_curl_virus\\fe9f7ce33c52df5d.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_yellowleaf_curl_virus\\fe9f7ce33c52df5d.jpg",
+    "file_size_bytes": 34524
+  },
+  {
+    "manifest_id": 213,
+    "split": "train",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "ffde41f09e7d47a8.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___yellow_leaf_curl_virus\\ffde41f09e7d47a8.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\tomato___tomato_yellowleaf_curl_virus\\ffde41f09e7d47a8.jpg",
+    "file_size_bytes": 34256
+  },
+  {
+    "manifest_id": 214,
+    "split": "val",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "19f506cec6e34144.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\tomato___yellow_leaf_curl_virus\\19f506cec6e34144.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\tomato___tomato_yellowleaf_curl_virus\\19f506cec6e34144.jpg",
+    "file_size_bytes": 23592
+  },
+  {
+    "manifest_id": 215,
+    "split": "val",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "2bd218831d0d536f.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\tomato___yellow_leaf_curl_virus\\2bd218831d0d536f.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\tomato___tomato_yellowleaf_curl_virus\\2bd218831d0d536f.jpg",
+    "file_size_bytes": 39867
+  },
+  {
+    "manifest_id": 216,
+    "split": "val",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "4c0daf3a9304ff0e.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\tomato___yellow_leaf_curl_virus\\4c0daf3a9304ff0e.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\tomato___tomato_yellowleaf_curl_virus\\4c0daf3a9304ff0e.jpg",
+    "file_size_bytes": 36888
+  },
+  {
+    "manifest_id": 217,
+    "split": "val",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "6a845b983e5ab590.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\tomato___yellow_leaf_curl_virus\\6a845b983e5ab590.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\tomato___tomato_yellowleaf_curl_virus\\6a845b983e5ab590.jpg",
+    "file_size_bytes": 27551
+  },
+  {
+    "manifest_id": 218,
+    "split": "val",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "7e265b55174a4851.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\tomato___yellow_leaf_curl_virus\\7e265b55174a4851.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\tomato___tomato_yellowleaf_curl_virus\\7e265b55174a4851.jpg",
+    "file_size_bytes": 36227
+  },
+  {
+    "manifest_id": 219,
+    "split": "val",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "82579a3b1524de0c.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\tomato___yellow_leaf_curl_virus\\82579a3b1524de0c.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\tomato___tomato_yellowleaf_curl_virus\\82579a3b1524de0c.jpg",
+    "file_size_bytes": 36791
+  },
+  {
+    "manifest_id": 220,
+    "split": "val",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "884e7aa0adbef78e.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\tomato___yellow_leaf_curl_virus\\884e7aa0adbef78e.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\tomato___tomato_yellowleaf_curl_virus\\884e7aa0adbef78e.jpg",
+    "file_size_bytes": 31308
+  },
+  {
+    "manifest_id": 221,
+    "split": "val",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "9961c40c98b052bd.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\tomato___yellow_leaf_curl_virus\\9961c40c98b052bd.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\tomato___tomato_yellowleaf_curl_virus\\9961c40c98b052bd.jpg",
+    "file_size_bytes": 36907
+  },
+  {
+    "manifest_id": 222,
+    "split": "val",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "a2aa7f2b6ddb422f.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\tomato___yellow_leaf_curl_virus\\a2aa7f2b6ddb422f.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\tomato___tomato_yellowleaf_curl_virus\\a2aa7f2b6ddb422f.jpg",
+    "file_size_bytes": 24983
+  },
+  {
+    "manifest_id": 223,
+    "split": "val",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "a91a91af0a65920d.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\tomato___yellow_leaf_curl_virus\\a91a91af0a65920d.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\tomato___tomato_yellowleaf_curl_virus\\a91a91af0a65920d.jpg",
+    "file_size_bytes": 26484
+  },
+  {
+    "manifest_id": 224,
+    "split": "val",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "ae9845ffcec4c9fa.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\tomato___yellow_leaf_curl_virus\\ae9845ffcec4c9fa.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\tomato___tomato_yellowleaf_curl_virus\\ae9845ffcec4c9fa.jpg",
+    "file_size_bytes": 18229
+  },
+  {
+    "manifest_id": 225,
+    "split": "val",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "b974c10df52d88e4.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\tomato___yellow_leaf_curl_virus\\b974c10df52d88e4.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\tomato___tomato_yellowleaf_curl_virus\\b974c10df52d88e4.jpg",
+    "file_size_bytes": 36687
+  },
+  {
+    "manifest_id": 226,
+    "split": "val",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "bf37b569cacf6811.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\tomato___yellow_leaf_curl_virus\\bf37b569cacf6811.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\tomato___tomato_yellowleaf_curl_virus\\bf37b569cacf6811.jpg",
+    "file_size_bytes": 30828
+  },
+  {
+    "manifest_id": 227,
+    "split": "val",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "fb450313adadbad4.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\tomato___yellow_leaf_curl_virus\\fb450313adadbad4.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\tomato___tomato_yellowleaf_curl_virus\\fb450313adadbad4.jpg",
+    "file_size_bytes": 29925
+  },
+  {
+    "manifest_id": 228,
+    "split": "test",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "0b6fb4e92ab6a716.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\tomato___yellow_leaf_curl_virus\\0b6fb4e92ab6a716.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\tomato___tomato_yellowleaf_curl_virus\\0b6fb4e92ab6a716.jpg",
+    "file_size_bytes": 25949
+  },
+  {
+    "manifest_id": 229,
+    "split": "test",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "12961e4d746db5c2.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\tomato___yellow_leaf_curl_virus\\12961e4d746db5c2.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\tomato___tomato_yellowleaf_curl_virus\\12961e4d746db5c2.jpg",
+    "file_size_bytes": 44513
+  },
+  {
+    "manifest_id": 230,
+    "split": "test",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "143205f9ff2dd8d6.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\tomato___yellow_leaf_curl_virus\\143205f9ff2dd8d6.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\tomato___tomato_yellowleaf_curl_virus\\143205f9ff2dd8d6.jpg",
+    "file_size_bytes": 34116
+  },
+  {
+    "manifest_id": 231,
+    "split": "test",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "21635027ecf5817e.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\tomato___yellow_leaf_curl_virus\\21635027ecf5817e.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\tomato___tomato_yellowleaf_curl_virus\\21635027ecf5817e.jpg",
+    "file_size_bytes": 34990
+  },
+  {
+    "manifest_id": 232,
+    "split": "test",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "5031506675de8a17.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\tomato___yellow_leaf_curl_virus\\5031506675de8a17.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\tomato___tomato_yellowleaf_curl_virus\\5031506675de8a17.jpg",
+    "file_size_bytes": 28561
+  },
+  {
+    "manifest_id": 233,
+    "split": "test",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "800d42ae660fcc06.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\tomato___yellow_leaf_curl_virus\\800d42ae660fcc06.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\tomato___tomato_yellowleaf_curl_virus\\800d42ae660fcc06.jpg",
+    "file_size_bytes": 34100
+  },
+  {
+    "manifest_id": 234,
+    "split": "test",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "a309e4a753862125.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\tomato___yellow_leaf_curl_virus\\a309e4a753862125.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\tomato___tomato_yellowleaf_curl_virus\\a309e4a753862125.jpg",
+    "file_size_bytes": 36990
+  },
+  {
+    "manifest_id": 235,
+    "split": "test",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "a74c56673f2cd8dd.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\tomato___yellow_leaf_curl_virus\\a74c56673f2cd8dd.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\tomato___tomato_yellowleaf_curl_virus\\a74c56673f2cd8dd.jpg",
+    "file_size_bytes": 42098
+  },
+  {
+    "manifest_id": 236,
+    "split": "test",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "ada75e9a97ea8819.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\tomato___yellow_leaf_curl_virus\\ada75e9a97ea8819.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\tomato___tomato_yellowleaf_curl_virus\\ada75e9a97ea8819.jpg",
+    "file_size_bytes": 31850
+  },
+  {
+    "manifest_id": 237,
+    "split": "test",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "bf2128898f65fae7.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\tomato___yellow_leaf_curl_virus\\bf2128898f65fae7.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\tomato___tomato_yellowleaf_curl_virus\\bf2128898f65fae7.jpg",
+    "file_size_bytes": 21741
+  },
+  {
+    "manifest_id": 238,
+    "split": "test",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "db1c00261a530bb2.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\tomato___yellow_leaf_curl_virus\\db1c00261a530bb2.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\tomato___tomato_yellowleaf_curl_virus\\db1c00261a530bb2.jpg",
+    "file_size_bytes": 30357
+  },
+  {
+    "manifest_id": 239,
+    "split": "test",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "ef3affae53c04748.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\tomato___yellow_leaf_curl_virus\\ef3affae53c04748.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\tomato___tomato_yellowleaf_curl_virus\\ef3affae53c04748.jpg",
+    "file_size_bytes": 24009
+  },
+  {
+    "manifest_id": 240,
+    "split": "test",
+    "source_class": "tomato___yellow_leaf_curl_virus",
+    "target_class": "tomato___tomato_yellowleaf_curl_virus",
+    "filename": "f7d593e89d69ba91.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\tomato___yellow_leaf_curl_virus\\f7d593e89d69ba91.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\tomato___tomato_yellowleaf_curl_virus\\f7d593e89d69ba91.jpg",
+    "file_size_bytes": 26069
+  },
+  {
+    "manifest_id": 241,
+    "split": "train",
+    "source_class": "bell_pepper_bacterial_spot",
+    "target_class": "pepper_bell___bacterial_spot",
+    "filename": "0dbe07674eb55fd9.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\bell_pepper_bacterial_spot\\0dbe07674eb55fd9.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\pepper_bell___bacterial_spot\\0dbe07674eb55fd9.jpg",
+    "file_size_bytes": 26803
+  },
+  {
+    "manifest_id": 242,
+    "split": "train",
+    "source_class": "bell_pepper_bacterial_spot",
+    "target_class": "pepper_bell___bacterial_spot",
+    "filename": "1176a99f4dee0dca.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\bell_pepper_bacterial_spot\\1176a99f4dee0dca.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\pepper_bell___bacterial_spot\\1176a99f4dee0dca.jpg",
+    "file_size_bytes": 25073
+  },
+  {
+    "manifest_id": 243,
+    "split": "train",
+    "source_class": "bell_pepper_bacterial_spot",
+    "target_class": "pepper_bell___bacterial_spot",
+    "filename": "1a2ab77045afced9.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\bell_pepper_bacterial_spot\\1a2ab77045afced9.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\pepper_bell___bacterial_spot\\1a2ab77045afced9.jpg",
+    "file_size_bytes": 22335
+  },
+  {
+    "manifest_id": 244,
+    "split": "train",
+    "source_class": "bell_pepper_bacterial_spot",
+    "target_class": "pepper_bell___bacterial_spot",
+    "filename": "1a6928f266e8e117.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\bell_pepper_bacterial_spot\\1a6928f266e8e117.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\pepper_bell___bacterial_spot\\1a6928f266e8e117.jpg",
+    "file_size_bytes": 22940
+  },
+  {
+    "manifest_id": 245,
+    "split": "train",
+    "source_class": "bell_pepper_bacterial_spot",
+    "target_class": "pepper_bell___bacterial_spot",
+    "filename": "20086d63443976a4.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\bell_pepper_bacterial_spot\\20086d63443976a4.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\pepper_bell___bacterial_spot\\20086d63443976a4.jpg",
+    "file_size_bytes": 29958
+  },
+  {
+    "manifest_id": 246,
+    "split": "train",
+    "source_class": "bell_pepper_bacterial_spot",
+    "target_class": "pepper_bell___bacterial_spot",
+    "filename": "23a62bed5bc5f65f.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\bell_pepper_bacterial_spot\\23a62bed5bc5f65f.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\pepper_bell___bacterial_spot\\23a62bed5bc5f65f.jpg",
+    "file_size_bytes": 22336
+  },
+  {
+    "manifest_id": 247,
+    "split": "train",
+    "source_class": "bell_pepper_bacterial_spot",
+    "target_class": "pepper_bell___bacterial_spot",
+    "filename": "26ebd48147b397f0.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\bell_pepper_bacterial_spot\\26ebd48147b397f0.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\pepper_bell___bacterial_spot\\26ebd48147b397f0.jpg",
+    "file_size_bytes": 34601
+  },
+  {
+    "manifest_id": 248,
+    "split": "train",
+    "source_class": "bell_pepper_bacterial_spot",
+    "target_class": "pepper_bell___bacterial_spot",
+    "filename": "29ac3e458ba522e9.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\bell_pepper_bacterial_spot\\29ac3e458ba522e9.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\pepper_bell___bacterial_spot\\29ac3e458ba522e9.jpg",
+    "file_size_bytes": 30579
+  },
+  {
+    "manifest_id": 249,
+    "split": "train",
+    "source_class": "bell_pepper_bacterial_spot",
+    "target_class": "pepper_bell___bacterial_spot",
+    "filename": "3674c28d07f839ab.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\bell_pepper_bacterial_spot\\3674c28d07f839ab.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\pepper_bell___bacterial_spot\\3674c28d07f839ab.jpg",
+    "file_size_bytes": 28279
+  },
+  {
+    "manifest_id": 250,
+    "split": "train",
+    "source_class": "bell_pepper_bacterial_spot",
+    "target_class": "pepper_bell___bacterial_spot",
+    "filename": "392835f6d252dbff.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\bell_pepper_bacterial_spot\\392835f6d252dbff.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\pepper_bell___bacterial_spot\\392835f6d252dbff.jpg",
+    "file_size_bytes": 35851
+  },
+  {
+    "manifest_id": 251,
+    "split": "train",
+    "source_class": "bell_pepper_bacterial_spot",
+    "target_class": "pepper_bell___bacterial_spot",
+    "filename": "3b275983b8a3be12.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\bell_pepper_bacterial_spot\\3b275983b8a3be12.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\pepper_bell___bacterial_spot\\3b275983b8a3be12.jpg",
+    "file_size_bytes": 17715
+  },
+  {
+    "manifest_id": 252,
+    "split": "train",
+    "source_class": "bell_pepper_bacterial_spot",
+    "target_class": "pepper_bell___bacterial_spot",
+    "filename": "479ea1c5289dc03a.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\bell_pepper_bacterial_spot\\479ea1c5289dc03a.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\pepper_bell___bacterial_spot\\479ea1c5289dc03a.jpg",
+    "file_size_bytes": 24448
+  },
+  {
+    "manifest_id": 253,
+    "split": "train",
+    "source_class": "bell_pepper_bacterial_spot",
+    "target_class": "pepper_bell___bacterial_spot",
+    "filename": "4ab860aac091b6ca.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\bell_pepper_bacterial_spot\\4ab860aac091b6ca.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\pepper_bell___bacterial_spot\\4ab860aac091b6ca.jpg",
+    "file_size_bytes": 24909
+  },
+  {
+    "manifest_id": 254,
+    "split": "train",
+    "source_class": "bell_pepper_bacterial_spot",
+    "target_class": "pepper_bell___bacterial_spot",
+    "filename": "522a6b5e0ec76864.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\bell_pepper_bacterial_spot\\522a6b5e0ec76864.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\pepper_bell___bacterial_spot\\522a6b5e0ec76864.jpg",
+    "file_size_bytes": 14911
+  },
+  {
+    "manifest_id": 255,
+    "split": "train",
+    "source_class": "bell_pepper_bacterial_spot",
+    "target_class": "pepper_bell___bacterial_spot",
+    "filename": "6019e000c3faec2d.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\bell_pepper_bacterial_spot\\6019e000c3faec2d.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\pepper_bell___bacterial_spot\\6019e000c3faec2d.jpg",
+    "file_size_bytes": 26499
+  },
+  {
+    "manifest_id": 256,
+    "split": "train",
+    "source_class": "bell_pepper_bacterial_spot",
+    "target_class": "pepper_bell___bacterial_spot",
+    "filename": "70c5bdb1b236b2fc.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\bell_pepper_bacterial_spot\\70c5bdb1b236b2fc.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\pepper_bell___bacterial_spot\\70c5bdb1b236b2fc.jpg",
+    "file_size_bytes": 25815
+  },
+  {
+    "manifest_id": 257,
+    "split": "train",
+    "source_class": "bell_pepper_bacterial_spot",
+    "target_class": "pepper_bell___bacterial_spot",
+    "filename": "74a5b6a4985b7c80.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\bell_pepper_bacterial_spot\\74a5b6a4985b7c80.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\pepper_bell___bacterial_spot\\74a5b6a4985b7c80.jpg",
+    "file_size_bytes": 23356
+  },
+  {
+    "manifest_id": 258,
+    "split": "train",
+    "source_class": "bell_pepper_bacterial_spot",
+    "target_class": "pepper_bell___bacterial_spot",
+    "filename": "797b7642c0db52d2.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\bell_pepper_bacterial_spot\\797b7642c0db52d2.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\pepper_bell___bacterial_spot\\797b7642c0db52d2.jpg",
+    "file_size_bytes": 16039
+  },
+  {
+    "manifest_id": 259,
+    "split": "train",
+    "source_class": "bell_pepper_bacterial_spot",
+    "target_class": "pepper_bell___bacterial_spot",
+    "filename": "809b21281fe6d7f0.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\bell_pepper_bacterial_spot\\809b21281fe6d7f0.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\pepper_bell___bacterial_spot\\809b21281fe6d7f0.jpg",
+    "file_size_bytes": 14801
+  },
+  {
+    "manifest_id": 260,
+    "split": "train",
+    "source_class": "bell_pepper_bacterial_spot",
+    "target_class": "pepper_bell___bacterial_spot",
+    "filename": "82426cb6d4907774.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\bell_pepper_bacterial_spot\\82426cb6d4907774.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\pepper_bell___bacterial_spot\\82426cb6d4907774.jpg",
+    "file_size_bytes": 23766
+  },
+  {
+    "manifest_id": 261,
+    "split": "train",
+    "source_class": "bell_pepper_bacterial_spot",
+    "target_class": "pepper_bell___bacterial_spot",
+    "filename": "82a55dc3d8c6de65.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\bell_pepper_bacterial_spot\\82a55dc3d8c6de65.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\pepper_bell___bacterial_spot\\82a55dc3d8c6de65.jpg",
+    "file_size_bytes": 16354
+  },
+  {
+    "manifest_id": 262,
+    "split": "train",
+    "source_class": "bell_pepper_bacterial_spot",
+    "target_class": "pepper_bell___bacterial_spot",
+    "filename": "845498348d86083d.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\bell_pepper_bacterial_spot\\845498348d86083d.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\pepper_bell___bacterial_spot\\845498348d86083d.jpg",
+    "file_size_bytes": 28380
+  },
+  {
+    "manifest_id": 263,
+    "split": "train",
+    "source_class": "bell_pepper_bacterial_spot",
+    "target_class": "pepper_bell___bacterial_spot",
+    "filename": "8a6378da163d138a.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\bell_pepper_bacterial_spot\\8a6378da163d138a.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\pepper_bell___bacterial_spot\\8a6378da163d138a.jpg",
+    "file_size_bytes": 26885
+  },
+  {
+    "manifest_id": 264,
+    "split": "train",
+    "source_class": "bell_pepper_bacterial_spot",
+    "target_class": "pepper_bell___bacterial_spot",
+    "filename": "9340eef66aed17df.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\bell_pepper_bacterial_spot\\9340eef66aed17df.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\pepper_bell___bacterial_spot\\9340eef66aed17df.jpg",
+    "file_size_bytes": 22006
+  },
+  {
+    "manifest_id": 265,
+    "split": "train",
+    "source_class": "bell_pepper_bacterial_spot",
+    "target_class": "pepper_bell___bacterial_spot",
+    "filename": "b0d6efb9aca5285a.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\bell_pepper_bacterial_spot\\b0d6efb9aca5285a.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\pepper_bell___bacterial_spot\\b0d6efb9aca5285a.jpg",
+    "file_size_bytes": 25923
+  },
+  {
+    "manifest_id": 266,
+    "split": "train",
+    "source_class": "bell_pepper_bacterial_spot",
+    "target_class": "pepper_bell___bacterial_spot",
+    "filename": "b71bb27355af123a.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\bell_pepper_bacterial_spot\\b71bb27355af123a.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\pepper_bell___bacterial_spot\\b71bb27355af123a.jpg",
+    "file_size_bytes": 24419
+  },
+  {
+    "manifest_id": 267,
+    "split": "train",
+    "source_class": "bell_pepper_bacterial_spot",
+    "target_class": "pepper_bell___bacterial_spot",
+    "filename": "b77560850185d189.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\bell_pepper_bacterial_spot\\b77560850185d189.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\pepper_bell___bacterial_spot\\b77560850185d189.jpg",
+    "file_size_bytes": 25773
+  },
+  {
+    "manifest_id": 268,
+    "split": "train",
+    "source_class": "bell_pepper_bacterial_spot",
+    "target_class": "pepper_bell___bacterial_spot",
+    "filename": "bbbc97aede70887c.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\bell_pepper_bacterial_spot\\bbbc97aede70887c.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\pepper_bell___bacterial_spot\\bbbc97aede70887c.jpg",
+    "file_size_bytes": 27850
+  },
+  {
+    "manifest_id": 269,
+    "split": "train",
+    "source_class": "bell_pepper_bacterial_spot",
+    "target_class": "pepper_bell___bacterial_spot",
+    "filename": "bc6c45881dc6f796.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\bell_pepper_bacterial_spot\\bc6c45881dc6f796.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\pepper_bell___bacterial_spot\\bc6c45881dc6f796.jpg",
+    "file_size_bytes": 24053
+  },
+  {
+    "manifest_id": 270,
+    "split": "train",
+    "source_class": "bell_pepper_bacterial_spot",
+    "target_class": "pepper_bell___bacterial_spot",
+    "filename": "cab8f0fc42f2aa15.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\bell_pepper_bacterial_spot\\cab8f0fc42f2aa15.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\pepper_bell___bacterial_spot\\cab8f0fc42f2aa15.jpg",
+    "file_size_bytes": 26498
+  },
+  {
+    "manifest_id": 271,
+    "split": "train",
+    "source_class": "bell_pepper_bacterial_spot",
+    "target_class": "pepper_bell___bacterial_spot",
+    "filename": "d57eccdc1bd1af47.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\bell_pepper_bacterial_spot\\d57eccdc1bd1af47.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\pepper_bell___bacterial_spot\\d57eccdc1bd1af47.jpg",
+    "file_size_bytes": 35385
+  },
+  {
+    "manifest_id": 272,
+    "split": "train",
+    "source_class": "bell_pepper_bacterial_spot",
+    "target_class": "pepper_bell___bacterial_spot",
+    "filename": "d8bebb82fe1cffc7.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\bell_pepper_bacterial_spot\\d8bebb82fe1cffc7.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\pepper_bell___bacterial_spot\\d8bebb82fe1cffc7.jpg",
+    "file_size_bytes": 20231
+  },
+  {
+    "manifest_id": 273,
+    "split": "train",
+    "source_class": "bell_pepper_bacterial_spot",
+    "target_class": "pepper_bell___bacterial_spot",
+    "filename": "dada291165a63b58.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\bell_pepper_bacterial_spot\\dada291165a63b58.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\pepper_bell___bacterial_spot\\dada291165a63b58.jpg",
+    "file_size_bytes": 25782
+  },
+  {
+    "manifest_id": 274,
+    "split": "train",
+    "source_class": "bell_pepper_bacterial_spot",
+    "target_class": "pepper_bell___bacterial_spot",
+    "filename": "dda5f5052c464684.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\bell_pepper_bacterial_spot\\dda5f5052c464684.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\pepper_bell___bacterial_spot\\dda5f5052c464684.jpg",
+    "file_size_bytes": 26171
+  },
+  {
+    "manifest_id": 275,
+    "split": "train",
+    "source_class": "bell_pepper_bacterial_spot",
+    "target_class": "pepper_bell___bacterial_spot",
+    "filename": "ecc7d4d3ec6a2ca0.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\bell_pepper_bacterial_spot\\ecc7d4d3ec6a2ca0.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\pepper_bell___bacterial_spot\\ecc7d4d3ec6a2ca0.jpg",
+    "file_size_bytes": 39838
+  },
+  {
+    "manifest_id": 276,
+    "split": "train",
+    "source_class": "bell_pepper_bacterial_spot",
+    "target_class": "pepper_bell___bacterial_spot",
+    "filename": "ed9751f701541b0d.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\bell_pepper_bacterial_spot\\ed9751f701541b0d.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\pepper_bell___bacterial_spot\\ed9751f701541b0d.jpg",
+    "file_size_bytes": 19877
+  },
+  {
+    "manifest_id": 277,
+    "split": "train",
+    "source_class": "bell_pepper_bacterial_spot",
+    "target_class": "pepper_bell___bacterial_spot",
+    "filename": "f0f648ea2f9dea75.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\bell_pepper_bacterial_spot\\f0f648ea2f9dea75.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\pepper_bell___bacterial_spot\\f0f648ea2f9dea75.jpg",
+    "file_size_bytes": 29370
+  },
+  {
+    "manifest_id": 278,
+    "split": "train",
+    "source_class": "bell_pepper_bacterial_spot",
+    "target_class": "pepper_bell___bacterial_spot",
+    "filename": "f1a5ca62cf12a652.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\bell_pepper_bacterial_spot\\f1a5ca62cf12a652.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\pepper_bell___bacterial_spot\\f1a5ca62cf12a652.jpg",
+    "file_size_bytes": 27716
+  },
+  {
+    "manifest_id": 279,
+    "split": "train",
+    "source_class": "bell_pepper_bacterial_spot",
+    "target_class": "pepper_bell___bacterial_spot",
+    "filename": "f1b3552bbcac4145.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\bell_pepper_bacterial_spot\\f1b3552bbcac4145.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\pepper_bell___bacterial_spot\\f1b3552bbcac4145.jpg",
+    "file_size_bytes": 30417
+  },
+  {
+    "manifest_id": 280,
+    "split": "train",
+    "source_class": "bell_pepper_bacterial_spot",
+    "target_class": "pepper_bell___bacterial_spot",
+    "filename": "f26095a335cdc473.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\bell_pepper_bacterial_spot\\f26095a335cdc473.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\pepper_bell___bacterial_spot\\f26095a335cdc473.jpg",
+    "file_size_bytes": 30333
+  },
+  {
+    "manifest_id": 281,
+    "split": "train",
+    "source_class": "bell_pepper_bacterial_spot",
+    "target_class": "pepper_bell___bacterial_spot",
+    "filename": "f689289862fd99f6.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\bell_pepper_bacterial_spot\\f689289862fd99f6.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\train\\pepper_bell___bacterial_spot\\f689289862fd99f6.jpg",
+    "file_size_bytes": 18177
+  },
+  {
+    "manifest_id": 282,
+    "split": "val",
+    "source_class": "bell_pepper_bacterial_spot",
+    "target_class": "pepper_bell___bacterial_spot",
+    "filename": "64d0c4711531a5cf.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\bell_pepper_bacterial_spot\\64d0c4711531a5cf.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\pepper_bell___bacterial_spot\\64d0c4711531a5cf.jpg",
+    "file_size_bytes": 28958
+  },
+  {
+    "manifest_id": 283,
+    "split": "val",
+    "source_class": "bell_pepper_bacterial_spot",
+    "target_class": "pepper_bell___bacterial_spot",
+    "filename": "6616ed5634ed096c.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\bell_pepper_bacterial_spot\\6616ed5634ed096c.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\pepper_bell___bacterial_spot\\6616ed5634ed096c.jpg",
+    "file_size_bytes": 21517
+  },
+  {
+    "manifest_id": 284,
+    "split": "val",
+    "source_class": "bell_pepper_bacterial_spot",
+    "target_class": "pepper_bell___bacterial_spot",
+    "filename": "6dc61681edf8b45b.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\bell_pepper_bacterial_spot\\6dc61681edf8b45b.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\pepper_bell___bacterial_spot\\6dc61681edf8b45b.jpg",
+    "file_size_bytes": 28562
+  },
+  {
+    "manifest_id": 285,
+    "split": "val",
+    "source_class": "bell_pepper_bacterial_spot",
+    "target_class": "pepper_bell___bacterial_spot",
+    "filename": "7820cbc37c627de9.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\bell_pepper_bacterial_spot\\7820cbc37c627de9.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\pepper_bell___bacterial_spot\\7820cbc37c627de9.jpg",
+    "file_size_bytes": 27542
+  },
+  {
+    "manifest_id": 286,
+    "split": "val",
+    "source_class": "bell_pepper_bacterial_spot",
+    "target_class": "pepper_bell___bacterial_spot",
+    "filename": "bdf196f4cb349f34.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\bell_pepper_bacterial_spot\\bdf196f4cb349f34.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\pepper_bell___bacterial_spot\\bdf196f4cb349f34.jpg",
+    "file_size_bytes": 25876
+  },
+  {
+    "manifest_id": 287,
+    "split": "val",
+    "source_class": "bell_pepper_bacterial_spot",
+    "target_class": "pepper_bell___bacterial_spot",
+    "filename": "c363c6f753f0fbe0.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\bell_pepper_bacterial_spot\\c363c6f753f0fbe0.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\pepper_bell___bacterial_spot\\c363c6f753f0fbe0.jpg",
+    "file_size_bytes": 28198
+  },
+  {
+    "manifest_id": 288,
+    "split": "val",
+    "source_class": "bell_pepper_bacterial_spot",
+    "target_class": "pepper_bell___bacterial_spot",
+    "filename": "cba783140e03532f.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\bell_pepper_bacterial_spot\\cba783140e03532f.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\pepper_bell___bacterial_spot\\cba783140e03532f.jpg",
+    "file_size_bytes": 30548
+  },
+  {
+    "manifest_id": 289,
+    "split": "val",
+    "source_class": "bell_pepper_bacterial_spot",
+    "target_class": "pepper_bell___bacterial_spot",
+    "filename": "edc87c84ca1f6310.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\bell_pepper_bacterial_spot\\edc87c84ca1f6310.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\pepper_bell___bacterial_spot\\edc87c84ca1f6310.jpg",
+    "file_size_bytes": 31001
+  },
+  {
+    "manifest_id": 290,
+    "split": "val",
+    "source_class": "bell_pepper_bacterial_spot",
+    "target_class": "pepper_bell___bacterial_spot",
+    "filename": "ff3f146922813343.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\bell_pepper_bacterial_spot\\ff3f146922813343.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\val\\pepper_bell___bacterial_spot\\ff3f146922813343.jpg",
+    "file_size_bytes": 29623
+  },
+  {
+    "manifest_id": 291,
+    "split": "test",
+    "source_class": "bell_pepper_bacterial_spot",
+    "target_class": "pepper_bell___bacterial_spot",
+    "filename": "067f69094b392b5a.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\bell_pepper_bacterial_spot\\067f69094b392b5a.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\pepper_bell___bacterial_spot\\067f69094b392b5a.jpg",
+    "file_size_bytes": 24448
+  },
+  {
+    "manifest_id": 292,
+    "split": "test",
+    "source_class": "bell_pepper_bacterial_spot",
+    "target_class": "pepper_bell___bacterial_spot",
+    "filename": "3238749a04425b59.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\bell_pepper_bacterial_spot\\3238749a04425b59.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\pepper_bell___bacterial_spot\\3238749a04425b59.jpg",
+    "file_size_bytes": 31068
+  },
+  {
+    "manifest_id": 293,
+    "split": "test",
+    "source_class": "bell_pepper_bacterial_spot",
+    "target_class": "pepper_bell___bacterial_spot",
+    "filename": "6247f1a24c153587.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\bell_pepper_bacterial_spot\\6247f1a24c153587.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\pepper_bell___bacterial_spot\\6247f1a24c153587.jpg",
+    "file_size_bytes": 23017
+  },
+  {
+    "manifest_id": 294,
+    "split": "test",
+    "source_class": "bell_pepper_bacterial_spot",
+    "target_class": "pepper_bell___bacterial_spot",
+    "filename": "6f22277c53c03634.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\bell_pepper_bacterial_spot\\6f22277c53c03634.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\pepper_bell___bacterial_spot\\6f22277c53c03634.jpg",
+    "file_size_bytes": 27794
+  },
+  {
+    "manifest_id": 295,
+    "split": "test",
+    "source_class": "bell_pepper_bacterial_spot",
+    "target_class": "pepper_bell___bacterial_spot",
+    "filename": "9448b6d8f0f8c633.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\bell_pepper_bacterial_spot\\9448b6d8f0f8c633.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\pepper_bell___bacterial_spot\\9448b6d8f0f8c633.jpg",
+    "file_size_bytes": 22552
+  },
+  {
+    "manifest_id": 296,
+    "split": "test",
+    "source_class": "bell_pepper_bacterial_spot",
+    "target_class": "pepper_bell___bacterial_spot",
+    "filename": "a2a21debe0b110f2.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\bell_pepper_bacterial_spot\\a2a21debe0b110f2.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\pepper_bell___bacterial_spot\\a2a21debe0b110f2.jpg",
+    "file_size_bytes": 21510
+  },
+  {
+    "manifest_id": 297,
+    "split": "test",
+    "source_class": "bell_pepper_bacterial_spot",
+    "target_class": "pepper_bell___bacterial_spot",
+    "filename": "a518d71d21613a1b.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\bell_pepper_bacterial_spot\\a518d71d21613a1b.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\pepper_bell___bacterial_spot\\a518d71d21613a1b.jpg",
+    "file_size_bytes": 35390
+  },
+  {
+    "manifest_id": 298,
+    "split": "test",
+    "source_class": "bell_pepper_bacterial_spot",
+    "target_class": "pepper_bell___bacterial_spot",
+    "filename": "a639d3a22d02a852.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\bell_pepper_bacterial_spot\\a639d3a22d02a852.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\pepper_bell___bacterial_spot\\a639d3a22d02a852.jpg",
+    "file_size_bytes": 34253
+  },
+  {
+    "manifest_id": 299,
+    "split": "test",
+    "source_class": "bell_pepper_bacterial_spot",
+    "target_class": "pepper_bell___bacterial_spot",
+    "filename": "ce2d22d048e5f578.jpg",
+    "source_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\bell_pepper_bacterial_spot\\ce2d22d048e5f578.jpg",
+    "destination_path": "C:\\cts\\Efficientnet\\Leafcare-model\\data\\test\\pepper_bell___bacterial_spot\\ce2d22d048e5f578.jpg",
+    "file_size_bytes": 20316
+  }
+]

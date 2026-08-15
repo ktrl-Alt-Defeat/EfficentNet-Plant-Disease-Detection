@@ -1,0 +1,12 @@
+{
+  "total_samples": 7542,
+  "num_classes": 38,
+  "top1_accuracy": 0.9331742243436754,
+  "macro_precision": 0.9155966840015711,
+  "macro_recall": 0.9270049019179055,
+  "macro_f1": 0.9197516396109512,
+  "weighted_precision": 0.9332684614027162,
+  "weighted_recall": 0.9331742238766085,
+  "weighted_f1": 0.9326356114956196,
+  "loss": 0.22116170568627289
+}
