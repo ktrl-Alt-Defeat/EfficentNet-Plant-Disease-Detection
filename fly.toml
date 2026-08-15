@@ -1,0 +1,27 @@
+# ==============================================================================
+# Fly.io App Configuration — Leafcare Plant Disease Classification API
+# ==============================================================================
+
+app = "leafcare-plant-disease-api"
+primary_region = "iad"
+
+[build]
+  dockerfile = "Dockerfile"
+
+[env]
+  DEVICE = "cpu"
+  PORT = "8000"
+  CONFIDENCE_THRESHOLD = "0.70"
+
+[http_service]
+  internal_port = 8000
+  force_https = true
+  auto_stop_machines = "stop"
+  auto_start_machines = true
+  min_machines_running = 1
+  processes = ["app"]
+
+[[vm]]
+  size = "shared-cpu-1x"
+  memory = "1024mb"
+  cpus = 1

@@ -6,25 +6,7 @@ PURPOSE:
 -------------------------------------------------------------------------
 Loads the trained EfficientNetV2-S model checkpoint once at startup and
 executes fast, deterministic inference under torch.inference_mode().
-
-WHY THIS MODULE EXISTS:
--------------------------------------------------------------------------
-Encapsulates model lifecycle management, device allocation (CUDA/CPU),
-in-memory weight caching, and top-5 probability extraction for FastAPI endpoints.
-
-HOW IT WORKS:
--------------------------------------------------------------------------
-1. Loads checkpoint state_dict and class mapping from checkpoints/baseline_38class_effnetv2s.pt.
-2. Instantiates EfficientNetV2SClassifier using models.efficientnetv2s.build_model.
-3. Automatically places weights on NVIDIA CUDA GPU if available, with CPU fallback.
-4. Locks model in eval mode (model.eval()).
-5. Executes forward passes under torch.inference_mode() (zero computational graph overhead).
-6. Applies softmax to produce posterior probability distribution.
-7. Extracts top-5 predicted classes with confidence percentages.
-
-STATE MODIFICATIONS:
--------------------------------------------------------------------------
-NONE. Inference-only execution. Model weights are completely immutable.
+Supports CPU-only production containers and GPU acceleration.
 """
 
 import logging
@@ -65,13 +47,20 @@ class EfficientNetPredictor:
         if not os.path.exists(self.checkpoint_path):
             raise FileNotFoundError(f"Baseline checkpoint not found at: {self.checkpoint_path}")
 
-        # 1. Device Selection: Prefer CUDA if hardware & drivers present
-        if torch.cuda.is_available():
+        # 1. Device Selection: Check explicit config/env preference first, then auto-detect
+        configured_device = getattr(settings, "DEVICE", "auto").lower()
+        if configured_device == "cpu":
+            self.device = torch.device("cpu")
+            device_desc = "CPU (Configured via DEVICE=cpu)"
+        elif configured_device == "cuda" and torch.cuda.is_available():
+            self.device = torch.device("cuda")
+            device_desc = f"CUDA ({torch.cuda.get_device_name(0)})"
+        elif torch.cuda.is_available():
             self.device = torch.device("cuda")
             device_desc = f"CUDA ({torch.cuda.get_device_name(0)})"
         else:
             self.device = torch.device("cpu")
-            device_desc = "CPU"
+            device_desc = "CPU (Hardware fallback)"
 
         logger.info(f"Target Compute Device: {device_desc}")
 
@@ -100,7 +89,7 @@ class EfficientNetPredictor:
         self.model.to(self.device)
         self.model.eval()
 
-        # 5. Pre-heat / Warmup GPU Kernel to eliminate initial request latency
+        # 5. Pre-heat / Warmup GPU/CPU Kernel to eliminate initial request latency
         try:
             with torch.inference_mode():
                 dummy = torch.zeros(1, 3, settings.IMAGE_SIZE, settings.IMAGE_SIZE, device=self.device)

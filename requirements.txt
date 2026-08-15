@@ -1,14 +1,36 @@
 # ==============================================================================
-# Plant Disease Classification — Requirements (Milestone 3)
+# Leafcare — Plant Disease Classification (Complete Project Dependencies)
 # ==============================================================================
-# For CUDA GPU acceleration with NVIDIA RTX 2050:
-# pip install torch torchvision --index-url https://download.pytorch.org/whl/cu126
+# Includes all packages required for:
+#   1. Model Architecture & PyTorch GPU Training
+#   2. Evaluation, Confusion Matrix & Metrics Analysis
+#   3. Grad-CAM Explainability & Visual Diagnostics
+#   4. Production FastAPI Inference Deployment
 # ==============================================================================
 
+# --- PyTorch CUDA Index (For NVIDIA GPU acceleration) ---
 --extra-index-url https://download.pytorch.org/whl/cu126
-torch
-torchvision
-pyyaml
-pillow
-numpy
-tensorboard
+
+# --- Core Deep Learning & Computer Vision ---
+torch>=2.0.0
+torchvision>=0.15.0
+numpy>=1.24.0
+pillow>=10.0.0
+opencv-python>=4.8.0
+pyyaml>=6.0
+
+# --- Training, Evaluation & Diagnostics ---
+scikit-learn>=1.3.0
+scipy>=1.11.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+tensorboard>=2.14.0
+tqdm>=4.66.0
+
+# --- Production FastAPI Deployment & Serving ---
+fastapi>=0.110.0
+uvicorn>=0.28.0
+python-multipart>=0.0.9
+pydantic>=2.0.0
+httpx>=0.27.0

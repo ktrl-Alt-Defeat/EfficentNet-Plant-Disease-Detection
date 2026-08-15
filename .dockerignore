@@ -1,0 +1,48 @@
+# ==============================================================================
+# Docker Build Context Exclusions
+# ==============================================================================
+
+# Virtual environments & local site-packages
+.venv/
+venv/
+env/
+Lib/
+share/
+Include/
+Scripts/
+pyvenv.cfg
+
+# Python bytecode & compiler caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+
+# Datasets (1.6+ GB)
+data/
+dataset/
+sample_dataset/
+
+# Offline training, evaluation, explainability & benchmarking modules
+training/
+evaluation/
+benchmarking/
+explainability/
+scripts/
+outputs/
+
+# Redundant checkpoint iterations (keep baseline_38class_effnetv2s.pt)
+checkpoints/best.pt
+checkpoints/last.pt
+checkpoints/epoch_*.pt
+
+# Git & IDE metadata
+.git/
+.gitignore
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
+*.md
+!README.md

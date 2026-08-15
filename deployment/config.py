@@ -6,11 +6,6 @@ PURPOSE:
 -------------------------------------------------------------------------
 Centralized configuration management for the FastAPI deployment service.
 Loads deployment environment variables with safe defaults.
-
-WHY THIS MODULE EXISTS:
--------------------------------------------------------------------------
-Decouples environment-specific configuration (ports, device preferences,
-checkpoint paths, CORS origins) from application routing logic.
 """
 
 import os
@@ -33,6 +28,9 @@ class DeploymentConfig:
     EXPECTED_CLASSES: int = 38
     IMAGE_SIZE: int = 224
 
+    # Target Hardware Device ('auto', 'cpu', 'cuda')
+    DEVICE: str = os.getenv("DEVICE", "auto")
+
     # Confidence Rejection Threshold (from Milestone 5 validation)
     CONFIDENCE_THRESHOLD: float = float(os.getenv("CONFIDENCE_THRESHOLD", "0.70"))
 
@@ -46,7 +44,6 @@ class DeploymentConfig:
     ]
 
     # CORS Settings
-    # NOTE: Never use allow_origins=["*"] in production with credentials/sensitive auth.
     CORS_ORIGINS: List[str] = os.getenv(
         "CORS_ORIGINS",
         "http://localhost:3000,http://localhost:5173,http://127.0.0.1:3000,http://127.0.0.1:5173"
