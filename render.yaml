@@ -1,0 +1,23 @@
+# ==============================================================================
+# Render.com Blueprint Configuration — Leafcare Plant Disease Classification API
+# ==============================================================================
+# Enables 1-click zero-configuration deployment on Render.
+# ==============================================================================
+
+services:
+  - type: web
+    name: leafcare-plant-disease-api
+    runtime: python
+    plan: free
+    region: oregon
+    buildCommand: pip install --no-cache-dir -r deployment/requirements.txt
+    startCommand: uvicorn deployment.app:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.9
+      - key: DEVICE
+        value: cpu
+      - key: CONFIDENCE_THRESHOLD
+        value: "0.70"
+      - key: CHECKPOINT_PATH
+        value: checkpoints/baseline_38class_effnetv2s.pt

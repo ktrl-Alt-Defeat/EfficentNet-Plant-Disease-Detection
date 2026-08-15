@@ -1,6 +1,6 @@
 # ==============================================================================
 # Leafcare Plant Disease Classification — Production CPU Dockerfile
-# Optimized for Fly.io and Cloud Container Deployments
+# Optimized for Render.com and Cloud Container Deployments
 # ==============================================================================
 
 FROM python:3.11-slim AS runtime
@@ -28,12 +28,8 @@ COPY deployment /app/deployment
 COPY models /app/models
 COPY checkpoints/baseline_38class_effnetv2s.pt /app/checkpoints/baseline_38class_effnetv2s.pt
 
-# Expose internal port
+# Expose default port
 EXPOSE 8000
 
-# Health check using the existing /health endpoint
-HEALTHCHECK --interval=30s --timeout=5s --start-period=10s --retries=3 \
-    CMD curl -f http://localhost:8000/health || exit 1
-
-# Start FastAPI application with Uvicorn on 0.0.0.0:8000
-CMD ["uvicorn", "deployment.app:app", "--host", "0.0.0.0", "--port", "8000"]
+# Start FastAPI application using dynamic $PORT injected by Render (defaulting to 8000)
+CMD ["sh", "-c", "uvicorn deployment.app:app --host 0.0.0.0 --port ${PORT:-8000}"]
